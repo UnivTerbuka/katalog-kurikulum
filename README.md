@@ -1,8 +1,12 @@
 # Katalog Kurikulum Program Universitas Terbuka
 
-## [Katalog kurikulum FE, FHISIP, FST, dan FKIP (non-pendas) Universitas Terbuka](/katalog-non-pendas.md)
+## Katalog kurikulum FE, FHISIP, FST, dan FKIP (non-pendas) Universitas Terbuka
 
-### [Fakultas Ekonomi (FE)](/FE/README.md)
+!> [Katalog kurikulum FE, FHISIP, FST, dan FKIP (non-pendas) Universitas Terbuka](/katalog-non-pendas.md)
+
+### Fakultas Ekonomi (FE)
+
+!> [Fakultas Ekonomi (FE)](/FE/README.md)
 
 #### Jurusan Ekonomi Pembangunan
 
@@ -22,7 +26,9 @@
 2. [Program Studi Akuntansi Bidang Minat Akuntansi Sektor Publik (S1)](/FE/akuntansi-bidang-minat-akuntansi-sektor-publik-s1.md)
 3. [Program Studi Akuntansi Keuangan Publik (S1)](/FE/akuntansi-keuangan-publik-s1.md)
 
-### [Fakultas Hukum Ilmu Sosial dan Politik (FHISIP)](/FHISIP/README.md)
+### Fakultas Hukum Ilmu Sosial dan Politik (FHISIP)
+
+!> [Fakultas Hukum Ilmu Sosial dan Politik (FHISIP)](/FHISIP/README.md)
 
 #### Jurusan Ilmu Administrasi
 
@@ -44,7 +50,9 @@
 2. [Sastra Inggris bidang minat Penerjemahan (S1)](/FHISIP/sastra-inggris-bidang-minat-penerjemahan-s1.md)
 3. [Ilmu Hukum (S1)](/FHISIP/ilmu-hukum-s1.md)
 
-### [Fakultas Keguruan dan Ilmu Pendidikan (FKIP Non PGSD dan Non PGPAUD)](/FKIP/README-non-pendas.md)
+### Fakultas Keguruan dan Ilmu Pendidikan (FKIP Non PGSD dan Non PGPAUD)
+
+!> [Fakultas Keguruan dan Ilmu Pendidikan (FKIP Non PGSD dan Non PGPAUD)](/FKIP/README-non-pendas.md)
 
 #### Jurusan Pendidikan Bahasa dan Seni (PBS)
 
@@ -97,4 +105,6 @@
 
 ***
 
-## [Katalog Kurikulum FKIP Program PGSD dan PGPAUD Universitas](/katalog-pendas.md)
+## Katalog Kurikulum FKIP Program PGSD dan PGPAUD Universitas
+
+!> [Katalog Kurikulum FKIP Program PGSD dan PGPAUD Universitas](/katalog-pendas.md)
