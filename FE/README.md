@@ -44,3 +44,7 @@ Menjadi salah satu institusi PTTJJ berkualitas dalam menghasilkan produk pendidi
 1. [Program Studi Akuntansi (S1)](akuntansi-s1.md)
 2. [Program Studi Akuntansi Bidang Minat Akuntansi Sektor Publik (S1)](akuntansi-bidang-minat-akuntansi-sektor-publik-s1.md)
 3. [Program Studi Akuntansi Keuangan Publik (S1)](akuntansi-keuangan-publik-s1.md)
+
+***
+
+Selanjutnya [Program Studi Ekonomi Pembangunan (S1)](ekonomi-pembangunan-s1.md)
