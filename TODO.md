@@ -2,8 +2,8 @@
 
 - [x] [Fakultas Ekonomi (FE)](/FE/README.md)
   - [x] [Program Studi Ekonomi Pembangunan (S1)](/FE/ekonomi-pembangunan-s1.md)
-  - [ ] [Program Studi Ekonomi Pembangunan (S1) Bidang Minat Ekonomi dan Perbankan Syariah](/FE/ekonomi-pembangunan-s1-bidang-minat-ekonomi-dan-perbankan-syariah.md)
-  - [ ] [Program Studi Ekonomi Syariah (S1)](/FE/ekonomi-syariah-s1.md)
+  - [x] [Program Studi Ekonomi Pembangunan (S1) Bidang Minat Ekonomi dan Perbankan Syariah](/FE/ekonomi-pembangunan-s1-bidang-minat-ekonomi-dan-perbankan-syariah.md)
+  - [x] [Program Studi Ekonomi Syariah (S1)](/FE/ekonomi-syariah-s1.md)
   - [x] [Program Studi Manajemen (S1)](/FE/manajemen-s1.md)
   - [ ] [Program Studi Manajemen (S1) Bidang Minat Manajemen Keuangan dan Perbankan Syariah](/FE/manajemen-s1-bidang-minat-manajemen-keuangan-dan-perbankan-syariah.md)
   - [ ] [Program Studi Pariwisata (S1)](/FE/pariwisata-s1.md)
