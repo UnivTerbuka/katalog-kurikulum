@@ -122,14 +122,14 @@ FKIP-UT unggul dalam menghasilkan pendidik dan tenaga kependidikan profesional m
 
 Kurikulum program studi di FKIP-UT dikembangkan dengan mengacu pada visi, misi, dan tujuan FKIP-UT serta sejalan dengan visi, misi, dan tujuan Universitas Terbuka.
 
-1. Program S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)
-2. Program S1 Pendidikan Guru Pendidikan Anak Usia Dini (S1 PGPAUD)
+1. Program Studi S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)
+2. Program Studi S1 Pendidikan Guru Pendidikan Anak Usia Dini (S1 PGPAUD)
 
 ## Katalog Program
 
-1. [Program S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)](s1-pgsd.md)
-2. [Program S1 Pendidikan Guru Pendidikan Anak Usia Dini (S1 PGPAUD)](s1-pgpaud.md)
+1. [Program Studi S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)](s1-pgsd.md)
+2. [Program Studi S1 Pendidikan Guru Pendidikan Anak Usia Dini (S1 PGPAUD)](s1-pgpaud.md)
 
 ***
 
-Selanjutnya [Program S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)](s1-pgsd.md)
+Selanjutnya [Program Studi S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)](s1-pgsd.md)
