@@ -12,7 +12,7 @@
   - [ ] [Program Studi Akuntansi Keuangan Publik (S1)](/FE/akuntansi-keuangan-publik-s1.md)
 
 - [x] [Fakultas Hukum Ilmu Sosial dan Politik (FHISIP)](/FHISIP/README.md)
-  - [ ] [Perpajakan (D-III)](/FHISIP/perpajakan-d-iii.md)
+  - [x] [Perpajakan (D-III)](/FHISIP/perpajakan-d-iii.md)
   - [ ] [Ilmu Administrasi Negara (S1)](/FHISIP/ilmu-administrasi-negara-s1.md)
   - [ ] [Ilmu Administrasi Negara (S1) bidang minat Administrasi danManajemen Kepegawaian (S1)](/FHISIP/ilmu-administrasi-negara-s1-bidang-minat-administrasi-dan-manajemen-kepegawaian-s1.md)
   - [ ] [Ilmu Administrasi Bisnis (S1)](/FHISIP/ilmu-administrasi-bisnis-s1.md)
@@ -40,7 +40,7 @@
 - [x] [Fakultas Sains dan Teknologi (FST)](/FST/README.md)
   - [ ] [Program Studi Matematika (S1)](/FST/program-studi-matematika-s1.md)
   - [ ] [Program Studi Statistika (S1)](/FST/program-studi-statistika-s1.md)
-  - [ ] [Program Studi Biologi (S1)](/FST/program-studi-biologi-s1.md)
+  - [x] [Program Studi Biologi (S1)](/FST/program-studi-biologi-s1.md)
   - [ ] [Program Studi Perencanaan Wilayah dan Kota (S1)](/FST/program-studi-perencanaan-wilayah-dan-kota-s1.md)
   - [x] [Program Studi Sistem Informasi (S1)](/FST/program-studi-sistem-informasi-s1.md)
   - [ ] [Penyuluhan dan Komunikasi Pertanian (S1)](/FST/penyuluhan-dan-komunikasi-pertanian-s1.md)

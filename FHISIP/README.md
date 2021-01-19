@@ -62,3 +62,7 @@ FHISIP UT menjadi rujukan penyelenggaraan Pendidikan Tinggi Terbuka dan Jarak Ja
 1. [Sosiologi (S1)](sosiologi-s1.md)
 2. [Sastra Inggris bidang minat Penerjemahan (S1)](sastra-inggris-bidang-minat-penerjemahan-s1.md)
 3. [Ilmu Hukum (S1)](ilmu-hukum-s1.md)
+
+***
+
+Selanjutnya [Perpajakan (D-III)](perpajakan-d-iii.md)
