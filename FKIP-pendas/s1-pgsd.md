@@ -144,3 +144,56 @@ Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat di 
 ### Struktur Kurikulum S1 PGSD Masukan Sarjana (Kode Program Studi 119)
 
 !> Untuk S1 PGSD Masukan Sarjana (Kode Program Studi 119)
+
+| SMT | No\. | Kode MK  | Nama Mata kuliah                              | Kode BA  | Nama Bahan Ajar                                              | SKS    | Jam Ujian  | Ket\.  |
+| --- | ---- | -------- | --------------------------------------------- | -------- | ------------------------------------------------------------ | ------ | ---------- | ------ |
+| I   | 1    | PDGK4205 | Pembelajaran Terpadu di SD                    | PDGK4205 | Pembelajaran Terpadu di SD                                   | 2      | I\.3       | T,BPr  |
+|     | 2    | PDGK4301 | Evaluasi Pembelajaran di SD                   | PDGK4301 | Evaluasi Pembelajaran di SD                                  | 2      | II\.1      | T      |
+|     | 3    | PDGK4201 | Pembelajaran PKn SD                           | PDGK4201 | Pembelajaran PKn SD                                          | 4      | I\.2       | T      |
+|     | 4    | IDIK4008 | Penelitian Tindakan Kelas                     | IDIK4008 | Penelitian Tindakan Kelas                                    | 2      | I\.5       | T      |
+|     | 5    | PDGK4106 | Pendidikan IPS di SD                          | PDGK4106 | Pendidikan IPS di SD \(Edisi 3\)                             | 3      | II\.3      | T      |
+|     | 6    | PDGK4105 | Strategi Pembelajaran di SD                   | PDGK4105 | Strategi Pembelajaran di SD                                  | 4      | II\.5      | T      |
+|     | 7    | PDGK4107 | Praktikum IPA di SD                           | PDGK4107 | Praktikum IPA di SD                                          | 3      | 99         | T,Pr,L |
+|     |      |          |                                               |          | Jumlah SKS                                                   | **20** |            |        |
+|     |      |          |                                               |          |                                                              |        |            |        |
+| II  | 1    | PDGK4406 | Pembelajaran Matematika SD                    | PDGK4406 | Pembelajaran Matematika SD                                   | 3      | I\.1       | T      |
+|     | 2    | PDGK4407 | Pengantar Pendidikan Anak Berkebutuhan Khusus | PDGK4407 | Pengantar Pendidikan Anak Berkebutuhan Khusus                | 3      | I\.3       | T      |
+|     | 3    | PDGK4502 | Pengembangan Kurikulum dan Pembelajaran di SD | PDGK4502 | Pengembangan Kurikulum dan Pembelajaran di SD                | 4      | I\.5       | T      |
+|     | 4    | PDGK4202 | Pembelajaran IPA SD                           | PDGK4202 | Pembelajaran IPA SD                                          | 3      | II\.2      | T      |
+|     | 5    | MKDK4002 | Perkembangan Peserta Didik                    | MKDK4002 | Perkembangan Peserta Didik                                   | 2      | II\.1      | T      |
+|     | 6    | PDGK4501 | Pemantapan Kemampuan Profesional/PKP          | PDGK4501 | Pemantapan Kemampuan Profesional/ PKP \(Edisi 2\)            | 4      | 99         | Bw,P,L |
+|     | 7    | PDGK4560 | Karya Ilmiah PGSD\*\*\*                       |          |                                                              | 0      | 0          | T      |
+|     |      |          |                                               |          | Jumlah SKS                                                   | **19** |            |        |
+|     |      |          |                                               |          |                                                              |        |            |        |
+| III | 1    | PDGK4108 | Matematika                                    | PDGK4108 | Matematika \(Edisi 2\)                                       | 4      | I\.1       | T      |
+|     | 2    | PDGK4104 | Perspektif Pendidikan SD                      | PDGK4104 | Perspektif Pendidikan SD                                     | 4      | I\.2       | T      |
+|     | 3    | PDGK4207 | Pendidikan Seni di SD                         | PDGK4207 | Pendidikan Seni di SD                                        | 4      | I\.3       | T      |
+|     | 4    | PDGK4500 | Tugas Akhir Program\*\*                       | IDIK4500 | Panduan Tugas Akhir Program Sarjana FKIP \(TAP\) \(Edisi 2\) | 4      | 0\.2\-0\.3 | Bw,E   |
+|     | 5    | PDGK4204 | Pendidikan Bahasa Indonesia di SD             | PDGK4204 | Pendidikan Bahasa Indonesia di SD                            | 4      | II\.4      | T      |
+|     | 6    | PDGK4302 | Pembelajaran Kelas Rangkap                    | PDGK4302 | Pembelajaran Kelas Rangkap                                   | 2      | II\.5      | T,BPr  |
+|     |      |          |                                               |          | Jumlah SKS                                                   | **22** |            |        |
+|     |      |          |                                               |          |                                                              |        |            |        |
+|     |      |          |                                               |          | Total SKS                                                    | **61** |            |        |
+
+### Keterangan:
+
+- Waktu ujian 99 : Tanpa Ujian Akhir Semester (UAS), nilai mata kuliah sepenuhnya dari nilai praktik/praktikum dan laporan praktik/praktikum.
+- T : Disediakan tutorial, kecuali untuk layanan SIPAS non TTM
+- P : Mata kuliah praktik
+- Pr : Mata kuliah praktikum
+- BPr : Mata kuliah berpraktik
+- Bw : Mata kuliah menuntut bimbingan wajib
+- L : Mata kuliah menuntut laporan
+- E : Ujian berbentuk esai
+- \*\* : Mata Kuliah Pendukung PDGK4500 / TAP adalah:
+  1. PDGK4104 Perspektif Pendidikan SD
+  2. PDGK4205 Pembelajaran Terpadu di SD
+  3. PDGK4201 Pembelajaran PKn SD
+  4. PDGK4106 Pendidikan IPS di SD
+  5. PDGK4202 Pembelajaran IPA SD
+  6. PDGK4204 Pendidikan Bahasa Indonesia di SD
+  7. PDGK4406 Pembelajaran Matematika SD
+  8. IDIK4008 Penelitian Tindakan Kelas
+- \*\*\* : Diregistrasi oleh mahasiswa bersamaan dengan registrasi mata kuliah PKP.
+
+Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat diakses di www.p2m2.ut.ac.id/banc
