@@ -53,7 +53,6 @@ Kurikulum Program Studi S1 Sistem Informasi dirancang agar dapat ditempuh mahasi
 ## Struktur Kurikulum
 
 !> Untuk Program Studi 252/Sistem Informasi (S1)
-?> Smmstr : Semester
 
 | NO  | Kode Mata Kuliah | Nama Mata Kuliah                                                                                                        | SKS | Waktu Ujian | Kode Bahan Ajar | Nama Bahan Ajar                              | Smmstr 1 | Smmstr 2 | Smmstr 3 | Smmstr 4 | Smmstr 5 | Smmstr 6 | Smmstr 7 | Smmstr 8 | Keterangan |
 | --- | ---------------- | ----------------------------------------------------------------------------------------------------------------------- | --- | ----------- | --------------- | -------------------------------------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | ---------- |
