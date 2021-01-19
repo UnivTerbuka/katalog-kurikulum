@@ -105,14 +105,18 @@ Kurikulum Program Studi S1 Ekonomi Pembangunan dirancang agar dapat ditempuh mah
 |        |             |                                           |         |                 |             |                                                                                   |       |       |       |       |       |       |       |       |                |
 |        |             | **Total sks**                             | **145** |                 |             |                                                                                   | 19    | 20    | 18    | 17    | 20    | 21    | 19    | 11    |                |
 
-\*\* Mata kuliah pendukung TAP ESPA4500 adalah:
+### Keterangan Struktur Kurikulum Program Sarjana Program Studi 53/Ekonomi Pembangunan (S1)
 
-1. ESPA4226 – Ekonomi Internasional
-2. ESPA4227 – Ekonomi Moneter
-3. ESPA4324 – Ekonomi Pembangunan Lanjutan
-4. ESPA4421 – Kebanksentralan dan Kebijakan Moneter
-
-\*\*\* Pada karil mata kuliah tanpa UAS di registrasikan oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP Mata kuliah praktek/praktikum, mata kuliah berpraktikum, TAP, Karil, tidak boleh diambil oleh peserta Program Mata Kuliah Mandiri (PMKM)
+- \# : Bahan ajar disertai multimedia
+- T : Tutorial Tatap Muka (TTM) untuk mahasiswa SIPAS
+- Bw : Bimbingan Wajib
+- E : Ujian Berbentuk Esai
+- \*\* : Mata kuliah pendukung TAP ESPA4500 adalah:
+  1. ESPA4226 – Ekonomi Internasional
+  2. ESPA4227 – Ekonomi Moneter
+  3. ESPA4324 – Ekonomi Pembangunan Lanjutan
+  4. ESPA4421 – Kebanksentralan dan Kebijakan Moneter
+- \*\*\* Pada karil mata kuliah tanpa UAS di registrasikan oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP Mata kuliah praktek/praktikum, mata kuliah berpraktikum, TAP, Karil, tidak boleh diambil oleh peserta Program Mata Kuliah Mandiri (PMKM)
 
 Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat di akses di www.p2m2.ut.ac.id/banc
 
