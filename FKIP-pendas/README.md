@@ -1,5 +1,7 @@
 # Katalog Kurikulum FKIP Program PGSD dan PGPAUD Universitas
 
+## Kata Pengantar
+
 Katalog kurikulum FKIP Program Pendidikan Guru Sekolah Dasar (PGSD) dan Pendidikan Guru Pendidikan Anak Usia Dini (PGPAUD) Universitas Terbuka 2020/2021 merupakan panduan bagi mahasiswa baru program PGSD dan PGPAUD FKIP-UT. Katalog ini memuat pendahuluan yang menjabarkan tentang visi, misi, dan tujuan dari program PGSD dan PGPAUD. Katalog ini juga memberikan informasi yang lengkap tentang kurikulum dan paket arahan per semester untuk program studi PGSD dan PGPAUD yang dapat dipergunakan sebagai pedoman untuk menyelesaikan studi dengan tepat waktu.
 
 Struktur kurikulum program studi PGSD dan PGPAUD disajikan secara utuh, yang meliputi daftar mata kuliah beserta SKS dan bahan ajar yang digunakan, waktu ujian untuk setiap mata kuliah, serta paket arahan per semester. Dengan demikian, untuk keperluan registrasi mata kuliah, mahasiswa diharapkan dapat langsung melihat pada struktur kurikulum dari program studi yang diikuti. Mahasiswa harus mencermati kode mata kuliah, SKS, jam ujian, dan kode bahan ajar. Mahasiswa juga harus berhati-hati dalam memilih mata kuliah yang mempunyai jam ujian sama (bentrok) karena mata kuliah dengan jam ujian bentrok tidak dapat diregistrasikan secara bersamaan kecuali bila salah satu mata kuliah tersebut diujikan secara online melalui Sistem Ujian Online (SUO).
@@ -8,7 +10,25 @@ Keterangan T pada daftar mata kuliah/struktur kurikulum menunjukkan bahwa mata k
 
 Beberapa perbedaan antara katalog kurikulum FKIP Program PGSD dan PGPAUD tahun 2020/2021 dengan katalog tahun sebelumnya, terletak pada bahan ajar PAUD4202/Metode Pengembangan Fisik dan PAUD4408/Komputer dalam Kegiatan Pengembangan AUD. Pada tahun 2020/2021 mata kuliah PAUD4202 menggunakan bahan ajar baru PAUD4202 sebelumnya PGTK2302 edisi 1, dan PAUD4408 menggunakan bahan ajar PAUD 4408 edisi 2. Untuk mengetahui sistem penyelenggaraan program PGSD dan PGPAUD, mahasiswa, para pemangku kepentingan, para pengurus pokjar, dan para petugas UPBJJ-UT harus merujuk pada katalog Sistem Penyelenggaraan UT 2020/2021.
 
-## PENDAHULUAN
+## Daftar Isi
+
+- [Katalog Kurikulum FKIP Program PGSD dan PGPAUD Universitas](#katalog-kurikulum-fkip-program-pgsd-dan-pgpaud-universitas)
+  - [Kata Pengantar](#kata-pengantar)
+  - [Daftar Isi](#daftar-isi)
+  - [Pendahuluan](#pendahuluan)
+    - [Visi](#visi)
+    - [Misi](#misi)
+    - [Tujuan](#tujuan)
+  - [Struktur Kurikulum](#struktur-kurikulum)
+    - [Sikap dan Tata Nilai](#sikap-dan-tata-nilai)
+    - [Keterampilan Umum](#keterampilan-umum)
+    - [Visi dan Misi FKIP](#visi-dan-misi-fkip)
+      - [Visi FKIP](#visi-fkip)
+      - [Misi FKIP](#misi-fkip)
+      - [Tujuan FKIP](#tujuan-fkip)
+  - [Katalog Program](#katalog-program)
+
+## Pendahuluan
 
 Kurikulum merupakan unsur inti dari suatu program studi. Kurikulum program studi bersifat dinamis, karena pengembangan kurikulum didasarkan antara lain pada perkembangan paradigma keilmuan, paradigma pendidikan, kompetensi yang harus dikuasai mahasiswa, dan kebutuhan pengguna. Oleh karena itu, pengembangan kurikulum melibatkan tidak hanya para pengembang program di program studi, melainkan juga stakeholder yang berasal dari lulusan maupun pengguna lulusan, dan para pakar dari institusi atau perguruan tinggi lain.
 
@@ -44,7 +64,7 @@ Untuk mendukung pencapaian visi, misi, dan tujuan Universitas Terbuka maka dalam
 
 Struktur kurikulum program studi yang ditawarkan Universitas Terbuka memuat berbagai komponen yang mencirikan sifatnya sebagai institusi pendidikan jarak jauh yang memiliki daya jangkau luas dan berkualitas dunia. Komponen-komponen yang ada dalam struktur kurikulum program studi adalah susunan mata kuliah beserta bahan ajar yang digunakan (cetak dan noncetak), bobot sks, waktu ujian, dan layanan bantuan belajar yang disediakan. Mahasiswa yang akan melakukan registrasi dianjurkan menggunakan struktur kurikulum program studi sebagai acuan. Disamping itu, mahasiswa juga harus memperhatikan dengan baik ketentuan-ketentuan yang ada pada program studi dan yang ada pada struktur kurikulum.
 
-## STRUKTUR KURIKULUM
+## Struktur Kurikulum
 
 Program Sarjana (S1) menggunakan kurikulum yang telah diselaraskan dengan prinsip dan konsep KKNI (Kerangka Kualifikasi Nasional Indonesia) 2013 level 6 untuk S1 Perguruan Tinggi sebagai bentuk penyetaraan kualitas sumber daya manusia. Sesuai dengan Permendikbud No. 49 Tahun 2014 tentang Standar Nasional Pendidikan Tinggi, Kurikulum Program Studi dijabarkan menjadi sejumlah mata kuliah untuk memenuhi capaian pembelajaran level 6 yang meliputi Sikap, Keterampilan Umum, Keterampilan Khusus, dan Penguasaan Pengetahuan.
 
@@ -105,7 +125,7 @@ Kurikulum program studi di FKIP-UT dikembangkan dengan mengacu pada visi, misi, 
 1. Program S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)
 2. Program S1 Pendidikan Guru Pendidikan Anak Usia Dini (S1 PGPAUD)
 
-## Katalog
+## Katalog Program
 
 1. [Program S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)](s1-pgsd.md)
 2. [Program S1 Pendidikan Guru Pendidikan Anak Usia Dini (S1 PGPAUD)](s1-pgpaud.md)
