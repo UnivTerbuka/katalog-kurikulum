@@ -1,5 +1,16 @@
 # Fakultas Sains dan Teknologi (FST)
 
+## Daftar Isi
+
+- [Fakultas Sains dan Teknologi (FST)](#fakultas-sains-dan-teknologi-fst)
+  - [Daftar Isi](#daftar-isi)
+  - [Visi](#visi)
+  - [Misi](#misi)
+  - [Katalog](#katalog)
+    - [Jurusan Matematika dan Ilmu Pengetahuan Alam](#jurusan-matematika-dan-ilmu-pengetahuan-alam)
+    - [Jurusan Teknik](#jurusan-teknik)
+    - [Jurusan Pertanian](#jurusan-pertanian)
+
 ## Visi
 
 Menjadi bagian integral dari UT untuk menjadi institusi Pendidikan Tinggi Terbuka Jarak Jauh (PTTJJ) berkualitas dalam menghasilkan produk akademik, penyelenggaraan, pengembangan, dan penyebaran informasi di bidang Matematika dan Ilmu Pengetahuan Alam.
