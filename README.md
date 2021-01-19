@@ -80,7 +80,9 @@
 1. [Program Studi Pendidikan Guru Sekolah Dasar (PGSD) (S1)*)](/FKIP/pendidikan-guru-sekolah-dasar-pgsd-s1.md)
 2. [Program Studi Pendidikan Guru Pendidikan Anak Usia Dini (PGPAUD) (S1)*)](/FKIP/pendidikan-guru-pendidikan-anak-usia-dini-pgpaud-s1.md)
 
-### [Fakultas Sains dan Teknologi (FST)](/FST/README.md)
+### Fakultas Sains dan Teknologi (FST)
+
+!> [Fakultas Sains dan Teknologi (FST)](/FST/README.md)
 
 #### Jurusan Matematika dan Ilmu Pengetahuan Alam
 
