@@ -1,5 +1,16 @@
 # Fakultas Ekonomi (FE)
 
+## Daftar Isi
+
+- [Fakultas Ekonomi (FE)](#fakultas-ekonomi-fe)
+  - [Daftar Isi](#daftar-isi)
+  - [Visi](#visi)
+  - [Misi](#misi)
+  - [Katalog](#katalog)
+    - [Jurusan Ekonomi Pembangunan](#jurusan-ekonomi-pembangunan)
+    - [Jurusan Manajemen](#jurusan-manajemen)
+    - [Jurusan Akuntansi](#jurusan-akuntansi)
+
 ## Visi
 
 Menjadi salah satu institusi PTTJJ berkualitas dalam menghasilkan produk pendidikan tinggi dan dalam penyelenggaraan, pengembangan, dan penyebaran informasi ekonomi dan bisnis.
