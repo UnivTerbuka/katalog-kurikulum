@@ -2,6 +2,18 @@
 
 !> 252/Sistem Informasi (S1)
 
+## Daftar Isi
+
+- [Program Studi Sistem Informasi (S1)](#program-studi-sistem-informasi-s1)
+  - [Daftar Isi](#daftar-isi)
+  - [Visi](#visi)
+  - [Misi](#misi)
+  - [Tujuan](#tujuan)
+  - [Capaian Pembelajaran](#capaian-pembelajaran)
+    - [Keterampilan Khusus](#keterampilan-khusus)
+    - [Penguasaan Pengetahuan](#penguasaan-pengetahuan)
+  - [Struktur Kurikulum Program Studi 252/Sistem Informasi (S1)](#struktur-kurikulum-program-studi-252sistem-informasi-s1)
+
 ## Visi
 
 Menjadi Program Studi Sistem Informasi yang unggul dan berwawasan regional melalui sistem pendidikan tinggi terbuka dan jarak jauh.
