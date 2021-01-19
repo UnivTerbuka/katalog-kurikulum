@@ -12,7 +12,8 @@
   - [Capaian Pembelajaran](#capaian-pembelajaran)
     - [Keterampilan Khusus](#keterampilan-khusus)
     - [Penguasaan Pengetahuan](#penguasaan-pengetahuan)
-  - [Struktur Kurikulum Program Studi 252/Sistem Informasi (S1)](#struktur-kurikulum-program-studi-252sistem-informasi-s1)
+  - [Struktur Kurikulum](#struktur-kurikulum)
+    - [Keterangan Struktur Kurikulum](#keterangan-struktur-kurikulum)
 
 ## Visi
 
@@ -49,7 +50,7 @@ Kurikulum Program Studi S1 Sistem Informasi dirancang agar dapat ditempuh mahasi
 2. Menguasai konsep, teori, dan prinsip dasar jaringan, pemrograman, database, sistem informasi, dan bidang-bidang ilmu terkait untuk memecahkan masalah.
 3. Menguasai prinsip-prinsip sistem informasi pada sektor usaha skala kecil dan menengah, dan institusi pemerintahan.
 
-## Struktur Kurikulum Program Sarjana Program Studi 252/Sistem Informasi (S1)
+## Struktur Kurikulum
 
 !> Untuk Program Studi 252/Sistem Informasi (S1)
 ?> Smmstr : Semester
@@ -121,25 +122,23 @@ Kurikulum Program Studi S1 Sistem Informasi dirancang agar dapat ditempuh mahasi
 | 51  | MSIM4408         | Etika Profesi\*                                                                                                         | 2   | II.4        | MSIM4408        | Etika Profesi                                |          |          |          |          |          |          |          | 2        |            |
 |     | Total SKS        |                                                                                                                         | 145 |             |                 |                                              | 18       | 18       | 18       | 20       | 19       | 20       | 17       | 15       |            |
 
-Keterangan:
+### Keterangan Struktur Kurikulum
 
-\# : Bahan ajar disertai multimedia
-T : Tutorial Tatap Muka (TTM) untuk mahasiswa SIPAS Bw : Bimbingan Wajib
-E : Ujian Berbentuk Esai
-\1) : Bidang Minat Data Mining
-\2) : Bidang Minat Jaringan
-
-\*\* Mata kuliah pendukung TAP MSIM4500 adalah:
-
-1. MSIM4206 – Basis Data
-2. MSIM4207 – Sistem Informasi Manajemen
-3. MSIM4302 – Analisis dan Perancangan Sistem
-4. MSIM4303 – Rekayasa Perangkat Lunak
-5. MSIM4312 – Metodologi Penelitian
-
-Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP MSIM4500 Mata kuliah Karil diregistrasikan bersamaan dengan registrasi mata kuliah TAP.
-
-Mata kuliah berpraktikum, TAP, Karil, tidak boleh diambil oleh peserta Program Mata Kuliah Mandiri (PMKM).
+- \# : Bahan ajar disertai multimedia
+- T : Tutorial Tatap Muka (TTM) untuk mahasiswa SIPAS
+- Bw : Bimbingan Wajib
+- E : Ujian Berbentuk Esai
+- 1) : Bidang Minat Data Mining
+- 2) : Bidang Minat Jaringan
+- \*\* Mata kuliah pendukung TAP MSIM4500 adalah:
+  1. MSIM4206 – Basis Data
+  2. MSIM4207 – Sistem Informasi Manajemen
+  3. MSIM4302 – Analisis dan Perancangan Sistem
+  4. MSIM4303 – Rekayasa Perangkat Lunak
+  5. MSIM4312 – Metodologi Penelitian
+   Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP MSIM4500.
+   Mata kuliah Karil diregistrasikan bersamaan dengan registrasi mata kuliah TAP.
+   Mata kuliah berpraktikum, TAP, Karil, tidak boleh diambil oleh peserta Program Mata Kuliah Mandiri (PMKM).
 
 Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat di akses di www.p2m2.ut.ac.id/banc
 
