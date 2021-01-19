@@ -1,9 +1,10 @@
 # Fakultas Ekonomi (FE)
 
-**Visi** Fakultas Ekonomi
+## Visi
+
 Menjadi salah satu institusi PTTJJ berkualitas dalam menghasilkan produk pendidikan tinggi dan dalam penyelenggaraan, pengembangan, dan penyebaran informasi ekonomi dan bisnis.
 
-**Misi** Fakultas Ekonomi
+## Misi
 
 1. Menyediakan akses pendidikan tinggi yang berkualitas untuk bidang ekonomi dan bisnis bagi semua lapisan masyarakat melalui sistem PTTJJ.
 2. Mengkaji dan mengembangkan sistem PTTJJ di bidang ekonomi dan bisnis.
@@ -24,26 +25,22 @@ Menjadi salah satu institusi PTTJJ berkualitas dalam menghasilkan produk pendidi
 |     | b. Program Studi Akuntansi Bidang Minat Akuntansi Sektor Publik (S1)                  |
 |     | c. Program Studi Akuntansi Keuangan Publik (S1)                                       |
 
-## Jurusan Ekonomi Pembangunan
+## Katalog
 
-### [Katalog Program Studi Ekonomi Pembangunan (S1)](ekonomi-pembangunan-s1.md)
+### Jurusan Ekonomi Pembangunan
 
-### [Katalog Program Studi Ekonomi Pembangunan (S1) Bidang Minat Ekonomi dan Perbankan Syariah](ekonomi-pembangunan-s1-bidang-minat-ekonomi-dan-perbankan-syariah.md)
+1. [Program Studi Ekonomi Pembangunan (S1)](ekonomi-pembangunan-s1.md)
+2. [Program Studi Ekonomi Pembangunan (S1) Bidang Minat Ekonomi dan Perbankan Syariah](ekonomi-pembangunan-s1-bidang-minat-ekonomi-dan-perbankan-syariah.md)
+3. [Program Studi Ekonomi Syariah (S1)](ekonomi-syariah-s1.md)
 
-### [Katalog Program Studi Ekonomi Syariah (S1)](ekonomi-syariah-s1.md)
+### Jurusan Manajemen
 
-## Jurusan Manajemen
+1. [Program Studi Manajemen (S1)](manajemen-s1.md)
+2. [Program Studi Manajemen (S1) Bidang Minat Manajemen Keuangan dan Perbankan Syariah](manajemen-s1-bidang-minat-manajemen-keuangan-dan-perbankan-syariah.md)
+3. [Program Studi Pariwisata (S1)](pariwisata-s1.md)
 
-### [Katalog Program Studi Manajemen (S1)](manajemen-s1.md)
+### Jurusan Akuntansi
 
-### [Katalog Program Studi Manajemen (S1) Bidang Minat Manajemen Keuangan dan Perbankan Syariah](manajemen-s1-bidang-minat-manajemen-keuangan-dan-perbankan-syariah.md)
-
-### [Katalog Program Studi Pariwisata (S1)](pariwisata-s1.md)
-
-## Jurusan Akuntansi
-
-### [Katalog Program Studi Akuntansi (S1)](akuntansi-s1.md)
-
-### [Katalog Program Studi Akuntansi Bidang Minat Akuntansi Sektor Publik (S1)](akuntansi-bidang-minat-akuntansi-sektor-publik-s1.md)
-
-### [Katalog Program Studi Akuntansi Keuangan Publik (S1)](akuntansi-keuangan-publik-s1.md)
+1. [Program Studi Akuntansi (S1)](akuntansi-s1.md)
+2. [Program Studi Akuntansi Bidang Minat Akuntansi Sektor Publik (S1)](akuntansi-bidang-minat-akuntansi-sektor-publik-s1.md)
+3. [Program Studi Akuntansi Keuangan Publik (S1)](akuntansi-keuangan-publik-s1.md)
