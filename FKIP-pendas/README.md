@@ -1,20 +1,10 @@
 # Katalog Kurikulum FKIP Program PGSD dan PGPAUD Universitas
 
-## Kata Pengantar
-
-Katalog kurikulum FKIP Program Pendidikan Guru Sekolah Dasar (PGSD) dan Pendidikan Guru Pendidikan Anak Usia Dini (PGPAUD) Universitas Terbuka 2020/2021 merupakan panduan bagi mahasiswa baru program PGSD dan PGPAUD FKIP-UT. Katalog ini memuat pendahuluan yang menjabarkan tentang visi, misi, dan tujuan dari program PGSD dan PGPAUD. Katalog ini juga memberikan informasi yang lengkap tentang kurikulum dan paket arahan per semester untuk program studi PGSD dan PGPAUD yang dapat dipergunakan sebagai pedoman untuk menyelesaikan studi dengan tepat waktu.
-
-Struktur kurikulum program studi PGSD dan PGPAUD disajikan secara utuh, yang meliputi daftar mata kuliah beserta SKS dan bahan ajar yang digunakan, waktu ujian untuk setiap mata kuliah, serta paket arahan per semester. Dengan demikian, untuk keperluan registrasi mata kuliah, mahasiswa diharapkan dapat langsung melihat pada struktur kurikulum dari program studi yang diikuti. Mahasiswa harus mencermati kode mata kuliah, SKS, jam ujian, dan kode bahan ajar. Mahasiswa juga harus berhati-hati dalam memilih mata kuliah yang mempunyai jam ujian sama (bentrok) karena mata kuliah dengan jam ujian bentrok tidak dapat diregistrasikan secara bersamaan kecuali bila salah satu mata kuliah tersebut diujikan secara online melalui Sistem Ujian Online (SUO).
-
-Keterangan T pada daftar mata kuliah/struktur kurikulum menunjukkan bahwa mata kuliah itu ditutorialkan bagi mahasiswa program Sistem Paket Semester (SIPAS); Bw merupakan mata kuliah bimbingan wajib; P merupakan mata kuliah praktik; Pr merupakan mata kuliah praktikum; BPr merupakan mata kuliah berpraktik; L mata kuliah yang menuntut laporan dan E merupakan mata kuliah yang diujikan dengan ujian esai. Bahan ajar non cetak (BANC) dalam bentuk multimedia sebagai pengayaan dapat diakses di www.p2m2.ut.ac.id/banc. Bagi mahasiswa yang mengambil program SIPAS maka paket arahan menjadi acuan wajib untuk melakukan registrasi mata kuliah per semester. Jumlah satuan kredit semester (sks) yang dapat ditempuh oleh setiap mahasiswa per semester maksimum 24 sks.
-
-Beberapa perbedaan antara katalog kurikulum FKIP Program PGSD dan PGPAUD tahun 2020/2021 dengan katalog tahun sebelumnya, terletak pada bahan ajar PAUD4202/Metode Pengembangan Fisik dan PAUD4408/Komputer dalam Kegiatan Pengembangan AUD. Pada tahun 2020/2021 mata kuliah PAUD4202 menggunakan bahan ajar baru PAUD4202 sebelumnya PGTK2302 edisi 1, dan PAUD4408 menggunakan bahan ajar PAUD 4408 edisi 2. Untuk mengetahui sistem penyelenggaraan program PGSD dan PGPAUD, mahasiswa, para pemangku kepentingan, para pengurus pokjar, dan para petugas UPBJJ-UT harus merujuk pada katalog Sistem Penyelenggaraan UT 2020/2021.
-
 ## Daftar Isi
 
 - [Katalog Kurikulum FKIP Program PGSD dan PGPAUD Universitas](#katalog-kurikulum-fkip-program-pgsd-dan-pgpaud-universitas)
-  - [Kata Pengantar](#kata-pengantar)
   - [Daftar Isi](#daftar-isi)
+  - [Kata Pengantar](#kata-pengantar)
   - [Pendahuluan](#pendahuluan)
     - [Visi](#visi)
     - [Misi](#misi)
@@ -27,6 +17,16 @@ Beberapa perbedaan antara katalog kurikulum FKIP Program PGSD dan PGPAUD tahun 2
       - [Misi FKIP](#misi-fkip)
       - [Tujuan FKIP](#tujuan-fkip)
   - [Katalog Program](#katalog-program)
+
+## Kata Pengantar
+
+Katalog kurikulum FKIP Program Pendidikan Guru Sekolah Dasar (PGSD) dan Pendidikan Guru Pendidikan Anak Usia Dini (PGPAUD) Universitas Terbuka 2020/2021 merupakan panduan bagi mahasiswa baru program PGSD dan PGPAUD FKIP-UT. Katalog ini memuat pendahuluan yang menjabarkan tentang visi, misi, dan tujuan dari program PGSD dan PGPAUD. Katalog ini juga memberikan informasi yang lengkap tentang kurikulum dan paket arahan per semester untuk program studi PGSD dan PGPAUD yang dapat dipergunakan sebagai pedoman untuk menyelesaikan studi dengan tepat waktu.
+
+Struktur kurikulum program studi PGSD dan PGPAUD disajikan secara utuh, yang meliputi daftar mata kuliah beserta SKS dan bahan ajar yang digunakan, waktu ujian untuk setiap mata kuliah, serta paket arahan per semester. Dengan demikian, untuk keperluan registrasi mata kuliah, mahasiswa diharapkan dapat langsung melihat pada struktur kurikulum dari program studi yang diikuti. Mahasiswa harus mencermati kode mata kuliah, SKS, jam ujian, dan kode bahan ajar. Mahasiswa juga harus berhati-hati dalam memilih mata kuliah yang mempunyai jam ujian sama (bentrok) karena mata kuliah dengan jam ujian bentrok tidak dapat diregistrasikan secara bersamaan kecuali bila salah satu mata kuliah tersebut diujikan secara online melalui Sistem Ujian Online (SUO).
+
+Keterangan T pada daftar mata kuliah/struktur kurikulum menunjukkan bahwa mata kuliah itu ditutorialkan bagi mahasiswa program Sistem Paket Semester (SIPAS); Bw merupakan mata kuliah bimbingan wajib; P merupakan mata kuliah praktik; Pr merupakan mata kuliah praktikum; BPr merupakan mata kuliah berpraktik; L mata kuliah yang menuntut laporan dan E merupakan mata kuliah yang diujikan dengan ujian esai. Bahan ajar non cetak (BANC) dalam bentuk multimedia sebagai pengayaan dapat diakses di www.p2m2.ut.ac.id/banc. Bagi mahasiswa yang mengambil program SIPAS maka paket arahan menjadi acuan wajib untuk melakukan registrasi mata kuliah per semester. Jumlah satuan kredit semester (sks) yang dapat ditempuh oleh setiap mahasiswa per semester maksimum 24 sks.
+
+Beberapa perbedaan antara katalog kurikulum FKIP Program PGSD dan PGPAUD tahun 2020/2021 dengan katalog tahun sebelumnya, terletak pada bahan ajar PAUD4202/Metode Pengembangan Fisik dan PAUD4408/Komputer dalam Kegiatan Pengembangan AUD. Pada tahun 2020/2021 mata kuliah PAUD4202 menggunakan bahan ajar baru PAUD4202 sebelumnya PGTK2302 edisi 1, dan PAUD4408 menggunakan bahan ajar PAUD 4408 edisi 2. Untuk mengetahui sistem penyelenggaraan program PGSD dan PGPAUD, mahasiswa, para pemangku kepentingan, para pengurus pokjar, dan para petugas UPBJJ-UT harus merujuk pada katalog Sistem Penyelenggaraan UT 2020/2021.
 
 ## Pendahuluan
 
