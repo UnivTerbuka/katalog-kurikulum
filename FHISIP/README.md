@@ -34,20 +34,20 @@ FHISIP UT menjadi rujukan penyelenggaraan Pendidikan Tinggi Terbuka dan Jarak Ja
 
 ### Jurusan Ilmu Administrasi
 
-a. [Perpajakan (D-III)](perpajakan-d-iii.md)
-b. [Ilmu Administrasi Negara (S1)](ilmu-administrasi-negara-s1.md)
-c. [Ilmu Administrasi Negara (S1) bidang minat Administrasi danManajemen Kepegawaian (S1)](ilmu-administrasi-negara-s1-bidang-minat-administrasi-dan-manajemen-kepegawaian-s1.md)
-d. [Ilmu Administrasi Bisnis (S1)](ilmu-administrasi-bisnis-s1.md)
-e. [Ilmu Pemerintahan (S1)](ilmu-pemerintahan-s1.md)
+1. [Perpajakan (D-III)](perpajakan-d-iii.md)
+2. . [Ilmu Administrasi Negara (S1)](ilmu-administrasi-negara-s1.md)
+3. [Ilmu Administrasi Negara (S1) bidang minat Administrasi danManajemen Kepegawaian (S1)](ilmu-administrasi-negara-s1-bidang-minat-administrasi-dan-manajemen-kepegawaian-s1.md)
+4. [Ilmu Administrasi Bisnis (S1)](ilmu-administrasi-bisnis-s1.md)
+5. [Ilmu Pemerintahan (S1)](ilmu-pemerintahan-s1.md)
 
 ### Jurusan Ilmu Komunikasi dan Informasi
 
-a. [Kearsipan (D-IV)](kearsipan-d-iv.md)
-b. [Ilmu Komunikasi (S1)](ilmu-komunikasi-s1.md)
-c. [Ilmu Perpustakaan (S1)](ilmu-perpustakaan-s1.md)
+1. [Kearsipan (D-IV)](kearsipan-d-iv.md)
+2. [Ilmu Komunikasi (S1)](ilmu-komunikasi-s1.md)
+3. [Ilmu Perpustakaan (S1)](ilmu-perpustakaan-s1.md)
 
 ### Jurusan Ilmu Sosial, Hukum, dan Humaniora
 
-a. [Sosiologi (S1)](sosiologi-s1.md)
-b. [Sastra Inggris bidang minat Penerjemahan (S1)](sastra-inggris-bidang-minat-penerjemahan-s1.md)
-c. [Ilmu Hukum (S1)](ilmu-hukum-s1.md)
+1. [Sosiologi (S1)](sosiologi-s1.md)
+2. [Sastra Inggris bidang minat Penerjemahan (S1)](sastra-inggris-bidang-minat-penerjemahan-s1.md)
+3. [Ilmu Hukum (S1)](ilmu-hukum-s1.md)

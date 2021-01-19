@@ -33,26 +33,26 @@ FKIP UT menjadi unggulan dalam menghasilkan pendidik dan tenaga kependidikan yan
 
 ### Jurusan Pendidikan Bahasa dan Seni (PBS)
 
-a. [Program Studi Pendidikan Bahasa dan Sastra Indonesia (S1)](pendidikan-bahasa-dan-sastra-indonesia-s1.md)
-b. [Program Studi Pendidikan Bahasa Inggris (S1)](pendidikan-bahasa-inggris-s1.md)
+1. [Program Studi Pendidikan Bahasa dan Sastra Indonesia (S1)](pendidikan-bahasa-dan-sastra-indonesia-s1.md)
+2. . [Program Studi Pendidikan Bahasa Inggris (S1)](pendidikan-bahasa-inggris-s1.md)
 
 ### Jurusan Pendidikan Matematika dan Ilmu Pengetahuan Alam (PMIPA)
 
-a. [Program Studi Pendidikan Biologi (S1)](pendidikan-biologi-s1.md)
-b. [Program Studi Pendidikan Fisika (S1)](pendidikan-fisika-s1.md)
-c. [Program Studi Pendidikan Kimia (S1)](pendidikan-kimia-s1.md)
-d. [Program Studi Pendidikan Matematika (S1)](pendidikan-matematika-s1.md)
+1. [Program Studi Pendidikan Biologi (S1)](pendidikan-biologi-s1.md)
+2. [Program Studi Pendidikan Fisika (S1)](pendidikan-fisika-s1.md)
+3. [Program Studi Pendidikan Kimia (S1)](pendidikan-kimia-s1.md)
+4. [Program Studi Pendidikan Matematika (S1)](pendidikan-matematika-s1.md)
 
 ### Jurusan Pendidikan Ilmu Pengetahuan Sosial (PIPS)
 
-a. [Program Studi Pendidikan Pancasila dan Kewarganegaraan (S1)](pendidikan-pancasila-dan-kewarganegaraan-s1.md)
-b. [Program Studi Pendidikan Ekonomi (S1)](pendidikan-ekonomi-s1.md)
+1. [Program Studi Pendidikan Pancasila dan Kewarganegaraan (S1)](pendidikan-pancasila-dan-kewarganegaraan-s1.md)
+2. [Program Studi Pendidikan Ekonomi (S1)](pendidikan-ekonomi-s1.md)
 
 ### Jurusan Ilmu Pendidikan
 
-a. [Program Studi Teknologi Pendidikan (S1)](program-studi-teknologi-pendidikan-s1.md)
+1. [Program Studi Teknologi Pendidikan (S1)](program-studi-teknologi-pendidikan-s1.md)
 
 ### Jurusan Pendidikan Dasar (Pendas)
 
-a. [Program Studi Pendidikan Guru Sekolah Dasar (PGSD) (S1)*)](pendidikan-guru-sekolah-dasar-pgsd-s1.md)
-b. [Program Studi Pendidikan Guru Pendidikan Anak Usia Dini (PGPAUD) (S1)*)](pendidikan-guru-pendidikan-anak-usia-dini-pgpaud-s1.md)
+1. [Program Studi Pendidikan Guru Sekolah Dasar (PGSD) (S1)*)](pendidikan-guru-sekolah-dasar-pgsd-s1.md)
+2. [Program Studi Pendidikan Guru Pendidikan Anak Usia Dini (PGPAUD) (S1)*)](pendidikan-guru-pendidikan-anak-usia-dini-pgpaud-s1.md)
