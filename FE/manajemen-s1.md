@@ -12,8 +12,8 @@
   - [Capaian Pembelajaran](#capaian-pembelajaran)
     - [Keterampilan Khusus](#keterampilan-khusus)
     - [Penguasaan Pengetahuan](#penguasaan-pengetahuan)
-  - [Struktur Kurikulum Program Studi](#struktur-kurikulum-program-studi)
-    - [Keterangan Struktur Kurikulum Program Studi](#keterangan-struktur-kurikulum-program-studi)
+  - [Struktur Kurikulum](#struktur-kurikulum)
+    - [Keterangan Struktur Kurikulum](#keterangan-struktur-kurikulum)
 
 ## Visi
 
@@ -58,7 +58,7 @@ Kurikulum Program Studi S1 Manajemen dirancang agar dapat ditempuh mahasiswa dal
 5. Menguasai konsep manajemen keuangan, operasi, pemasaran dan sumberdaya manusia.
 6. Menguasai konsep kewirausahaan, investasi, dan analisis risiko usaha.
 
-## Struktur Kurikulum Program Studi
+## Struktur Kurikulum
 
 !> Untuk Program Studi 54/Manajemen (S1)
 
@@ -122,7 +122,7 @@ Kurikulum Program Studi S1 Manajemen dirancang agar dapat ditempuh mahasiswa dal
 | 50  | EKMA4569  | Perencanaan Pemasaran                       | 3   | II\.5       | EKMA4569 | Perencanaan Pemasaran                                                                                   |            |            |            |            |            |            |            | 3          |            |
 |     | Total sks |                                             | 144 |             |          |                                                                                                         | 19         | 19         | 18         | 18         | 18         | 17         | 18         | 17         |            |
 
-### Keterangan Struktur Kurikulum Program Studi
+### Keterangan Struktur Kurikulum
 
 - T : Tutorial Tatap Muka (TTM) untuk mahasiswa SIPAS
 - Bw : Bimbingan Wajib
@@ -134,7 +134,7 @@ Kurikulum Program Studi S1 Manajemen dirancang agar dapat ditempuh mahasiswa dal
   4. EKMA4214 - Manajemen Sumber Daya Manusia
   5. EKMA4478 - Analisis Kasus Bisnis
 
-- \*\*\* : Pada karil mata kuliah tanpa UAS di registrasikan oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP
+- \*\*\* Pada karil mata kuliah tanpa UAS di registrasikan oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP
 
 Mata kuliah praktik/praktikum, mata kuliah berpraktikum, TAP, Karil, tidak boleh diambil oleh peserta Program Mata Kuliah Mandiri (PMKM)
 
