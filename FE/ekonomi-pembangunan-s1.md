@@ -2,6 +2,19 @@
 
 !> 53/Ekonomi Pembangunan (S1)
 
+## Daftar Isi
+
+- [Program Studi Ekonomi Pembangunan (S1)](#program-studi-ekonomi-pembangunan-s1)
+  - [Daftar Isi](#daftar-isi)
+  - [Visi](#visi)
+  - [Misi](#misi)
+  - [Tujuan](#tujuan)
+  - [Capaian Pembelajaran](#capaian-pembelajaran)
+  - [Keterampilan Khusus](#keterampilan-khusus)
+  - [Penguasaan Pengetahuan](#penguasaan-pengetahuan)
+  - [Struktur Kurikulum Program Sarjana Program Studi 53/Ekonomi Pembangunan (S1)](#struktur-kurikulum-program-sarjana-program-studi-53ekonomi-pembangunan-s1)
+    - [Keterangan Struktur Kurikulum Program Sarjana Program Studi 53/Ekonomi Pembangunan (S1)](#keterangan-struktur-kurikulum-program-sarjana-program-studi-53ekonomi-pembangunan-s1)
+
 ## Visi
 
 Menjadi salah satu program studi penyelenggara program Strata 1 (S1) Ekonomi Pembangunan melalui sistem PTTJJ di Indonesia yang menghasilkan Sarjana Ekonomi Pembangunan yang memiliki pondasi kuat dalam ilmu ekonomi dan mampu memecahkan permasalahan- permasalahan ekonomi baik makro maupun mikro.
