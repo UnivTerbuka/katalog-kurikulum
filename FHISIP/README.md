@@ -1,5 +1,16 @@
 # Fakultas Hukum Ilmu Sosial dan Politik (FHISIP)
 
+## Daftar Isi
+
+- [Fakultas Hukum Ilmu Sosial dan Politik (FHISIP)](#fakultas-hukum-ilmu-sosial-dan-politik-fhisip)
+  - [Daftar Isi](#daftar-isi)
+  - [Visi](#visi)
+  - [Misi](#misi)
+  - [Katalog](#katalog)
+    - [Jurusan Ilmu Administrasi](#jurusan-ilmu-administrasi)
+    - [Jurusan Ilmu Komunikasi dan Informasi](#jurusan-ilmu-komunikasi-dan-informasi)
+    - [Jurusan Ilmu Sosial, Hukum, dan Humaniora](#jurusan-ilmu-sosial-hukum-dan-humaniora)
+
 ## Visi
 
 FHISIP UT menjadi rujukan penyelenggaraan Pendidikan Tinggi Terbuka dan Jarak Jauh (PTTJJ) dalam bidang Ilmu Hukum, Ilmu Sosial dan Humaniora, dan Ilmu Politik.
