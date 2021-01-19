@@ -1,5 +1,7 @@
 # Program Studi Sistem Informasi (S1)
 
+!> 252/Sistem Informasi (S1)
+
 ## Visi
 
 Menjadi Program Studi Sistem Informasi yang unggul dan berwawasan regional melalui sistem pendidikan tinggi terbuka dan jarak jauh.
@@ -35,7 +37,7 @@ Kurikulum Program Studi S1 Sistem Informasi dirancang agar dapat ditempuh mahasi
 2. Menguasai konsep, teori, dan prinsip dasar jaringan, pemrograman, database, sistem informasi, dan bidang-bidang ilmu terkait untuk memecahkan masalah.
 3. Menguasai prinsip-prinsip sistem informasi pada sektor usaha skala kecil dan menengah, dan institusi pemerintahan.
 
-## Struktur Kurikulum Program Sarjana Program Studi : 252/Sistem Informasi (S1)
+## Struktur Kurikulum Program Sarjana Program Studi 252/Sistem Informasi (S1)
 
 | NO  | Kode Mata Kuliah | Nama Mata Kuliah                                                                                                        | SKS | Waktu Ujian | Kode Bahan Ajar | Nama Bahan Ajar                              | Semester 1 | Semester 2 | Semester 3 | Semester 4 | Semester 5 | Semester 6 | Semester 7 | Semester 8 | Keterangan |
 | --- | ---------------- | ----------------------------------------------------------------------------------------------------------------------- | --- | ----------- | --------------- | -------------------------------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |

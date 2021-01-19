@@ -1,5 +1,7 @@
 # Program Studi Ekonomi Pembangunan (S1)
 
+!> 53/Ekonomi Pembangunan (S1)
+
 ## Visi
 
 Menjadi salah satu program studi penyelenggara program Strata 1 (S1) Ekonomi Pembangunan melalui sistem PTTJJ di Indonesia yang menghasilkan Sarjana Ekonomi Pembangunan yang memiliki pondasi kuat dalam ilmu ekonomi dan mampu memecahkan permasalahan- permasalahan ekonomi baik makro maupun mikro.
@@ -38,7 +40,7 @@ Kurikulum Program Studi S1 Ekonomi Pembangunan dirancang agar dapat ditempuh mah
 2. Kemampuan menganalisis dampak kebijakan pemerintah berkaitan dengan pertumbuhan ekonomi, inflasi dan pengangguran.
 3. Kemampuan analisis, sintesis ilmu dan keterampilan pengambilan keputusan berbasis ilmu pengetahuan (knowledge based decision) bagi entitas pemerintahan dan swasta.
 
-## Struktur Kurikulum Program Sarjana Program Studi : 53/Ekonomi Pembangunan (S1)
+## Struktur Kurikulum Program Sarjana Program Studi 53/Ekonomi Pembangunan (S1)
 
 | No   | Mata Kuliah                               | sks                                   | Waktu Ujian | Bahan Ajar yang Digunakan | Paket Arahan per Semester dan sks | Ket                                                                               |
 | ---- | ----------------------------------------- | ------------------------------------- | ----------- | ------------------------- | --------------------------------- | --------------------------------------------------------------------------------- |
