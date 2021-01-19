@@ -1,5 +1,18 @@
 # Fakultas Keguruan dan Ilmu Pendidikan (FKIP)
 
+## Daftar Isi
+
+- [Fakultas Keguruan dan Ilmu Pendidikan (FKIP)](#fakultas-keguruan-dan-ilmu-pendidikan-fkip)
+  - [Daftar Isi](#daftar-isi)
+  - [Visi](#visi)
+  - [Misi](#misi)
+  - [Katalog](#katalog)
+    - [Jurusan Pendidikan Bahasa dan Seni (PBS)](#jurusan-pendidikan-bahasa-dan-seni-pbs)
+    - [Jurusan Pendidikan Matematika dan Ilmu Pengetahuan Alam (PMIPA)](#jurusan-pendidikan-matematika-dan-ilmu-pengetahuan-alam-pmipa)
+    - [Jurusan Pendidikan Ilmu Pengetahuan Sosial (PIPS)](#jurusan-pendidikan-ilmu-pengetahuan-sosial-pips)
+    - [Jurusan Ilmu Pendidikan](#jurusan-ilmu-pendidikan)
+    - [Jurusan Pendidikan Dasar (Pendas)](#jurusan-pendidikan-dasar-pendas)
+
 ## Visi
 
 FKIP UT menjadi unggulan dalam menghasilkan pendidik dan tenaga kependidikan yang profesional melalui sistem pendidikan tinggi terbuka dan jarak jauh.
