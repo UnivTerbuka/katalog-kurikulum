@@ -1,8 +1,12 @@
-# Program S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)
+# Program Studi S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)
+
+?> 118 / (S1 PGSD) Layanan Alih Kredit Pengakuan Masa Mengajar
+
+?> 119 / (S1 PGSD) Masukan Sarjana
 
 ## Daftar Isi
 
-- [Program S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)](#program-s1-pendidikan-guru-sekolah-dasar-s1-pgsd)
+- [Program Studi S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)](#program-studi-s1-pendidikan-guru-sekolah-dasar-s1-pgsd)
   - [Daftar Isi](#daftar-isi)
   - [Visi](#visi)
   - [Misi](#misi)

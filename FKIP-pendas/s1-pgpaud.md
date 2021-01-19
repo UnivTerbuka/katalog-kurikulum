@@ -1,8 +1,12 @@
-# Program S1 Pendidikan Guru Pendidikan Anak Usia Dini (S1 PGPAUD)
+# Program Studi S1 Pendidikan Guru Pendidikan Anak Usia Dini (S1 PGPAUD)
+
+?> 121 / (S1 PGPAUD) Masukan Sarjana
+
+?> 122 / (S1 PGPAUD) Layanan Alih Kredit Pengakuan Masa Mengajar
 
 ## Daftar Isi
 
-- [Program S1 Pendidikan Guru Pendidikan Anak Usia Dini (S1 PGPAUD)](#program-s1-pendidikan-guru-pendidikan-anak-usia-dini-s1-pgpaud)
+- [Program Studi S1 Pendidikan Guru Pendidikan Anak Usia Dini (S1 PGPAUD)](#program-studi-s1-pendidikan-guru-pendidikan-anak-usia-dini-s1-pgpaud)
   - [Daftar Isi](#daftar-isi)
   - [Visi](#visi)
   - [Misi](#misi)

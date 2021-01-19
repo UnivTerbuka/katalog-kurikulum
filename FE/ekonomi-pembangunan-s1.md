@@ -1,6 +1,6 @@
 # Program Studi Ekonomi Pembangunan (S1)
 
-!> 53/Ekonomi Pembangunan (S1)
+?> 53 / Ekonomi Pembangunan (S1)
 
 ## Daftar Isi
 
@@ -55,7 +55,7 @@ Kurikulum Program Studi S1 Ekonomi Pembangunan dirancang agar dapat ditempuh mah
 
 ## Struktur Kurikulum
 
-!> Untuk Program Studi 53/Ekonomi Pembangunan (S1)
+!> Untuk Program Studi: 53/Ekonomi Pembangunan (S1)
 
 | **No** | **Kode MK** | **Mata Kuliah**                           | **SKS** | **Waktu Ujian** | **Kode BA** | **Bahan Ajar yang Digunakan**                                                     | **Semester 1** | **Semester 2** | **Semester 3** | **Semester 4** | **Semester 5** | **Semester 6** | **Semester 7** | **Semester 8** | **Keterangan** |
 | ------ | ----------- | ----------------------------------------- | ------- | --------------- | ----------- | --------------------------------------------------------------------------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |

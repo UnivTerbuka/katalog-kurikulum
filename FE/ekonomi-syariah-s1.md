@@ -1,6 +1,6 @@
 # Program Studi Ekonomi Syariah (S1)
 
-!> 458 / Ekonomi Syariah (S1)
+?> 458 / Ekonomi Syariah (S1)
 
 ## Daftar Isi
 

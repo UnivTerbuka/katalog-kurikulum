@@ -1,6 +1,6 @@
 # Program Studi D-III Perpajakan
 
-!> 30/(D-III) Perpajakan
+?> 30 / (D-III) Perpajakan
 
 ## Daftar Isi
 
@@ -51,7 +51,7 @@ Kurikulum Program Studi D-III Perpajakan dirancang agar dapat ditempuh mahasiswa
 
 ## Struktur Kurikulum
 
-!> Untuk Diploma Program Studi : 30/(D-III) Perpajakan (Mulai 2020/2021 berlaku Kurikulum Tunggal)
+!> Untuk Program Studi: 30/(D-III) Perpajakan (Mulai 2020/2021 berlaku Kurikulum Tunggal)
 
 | NO  | Kode Mata Kuliah | Nama Mata Kuliah                                | SKS | Waktu Ujian | Kode Bahan Ajar | Nama Bahan Ajar                                                                                | Semester 1 | Semester 2 | Semester 3 | Semester 4 | Semester 5 | Semester 6 | Semester 7 | Semester 8 | Keterangan |
 | --- | ---------------- | ----------------------------------------------- | --- | ----------- | --------------- | ---------------------------------------------------------------------------------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |

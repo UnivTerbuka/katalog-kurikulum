@@ -1,6 +1,6 @@
 # Program Studi Biologi (S1)
 
-!> 78/Biologi (S1)
+?> 78 / Biologi (S1)
 
 ## Daftar Isi
 
@@ -50,7 +50,7 @@ Kurikulum Program Studi S1 Biologi dirancang agar dapat ditempuh mahasiswa dalam
 
 ## Struktur Kurikulum
 
-!> Untuk Program Studi 78/Biologi (S1)
+!> Untuk Program Studi: 78/Biologi (S1)
 
 | **NO** | **Kode Mata Kuliah** | **Nama Mata Kuliah**                        | **SKS** | **Waktu Ujian** | **Kode Bahan Ajar** | **Nama Bahan Ajar**                                | **Semester 1** | **Semester 2** | **Semester 3** | **Semester 4** | **Semester 5** | **Semester 6** | **Semester 7** | **Semester 8** | **Keterangan** |
 | ------ | -------------------- | ------------------------------------------- | ------- | --------------- | ------------------- | -------------------------------------------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
