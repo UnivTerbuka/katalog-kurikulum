@@ -24,7 +24,7 @@ C. Jurusan Akuntansi
 
 ### [Fakultas Hukum Ilmu Sosial dan Politik (FHISIP)](/FHISIP/README.md)
 
-A. Katalog Jurusan Ilmu Administrasi
+A. Jurusan Ilmu Administrasi
 
 1. [Perpajakan (D-III)](/FHISIP/perpajakan-d-iii.md)
 2. [Ilmu Administrasi Negara (S1)](/FHISIP/ilmu-administrasi-negara-s1.md)
@@ -32,13 +32,13 @@ A. Katalog Jurusan Ilmu Administrasi
 4. [Ilmu Administrasi Bisnis (S1)](/FHISIP/ilmu-administrasi-bisnis-s1.md)
 5. [Ilmu Pemerintahan (S1)](/FHISIP/ilmu-pemerintahan-s1.md)
 
-B. Katalog Jurusan Ilmu Komunikasi dan Informasi
+B. Jurusan Ilmu Komunikasi dan Informasi
 
 1. [Kearsipan (D-IV)](/FHISIP/kearsipan-d-iv.md)
 2. [Ilmu Komunikasi (S1)](/FHISIP/ilmu-komunikasi-s1.md)
 3. [Ilmu Perpustakaan (S1)](/FHISIP/ilmu-perpustakaan-s1.md)
 
-C. Katalog Jurusan Ilmu Sosial, Hukum, dan Humaniora
+C. Jurusan Ilmu Sosial, Hukum, dan Humaniora
 
 1. [Sosiologi (S1)](/FHISIP/sosiologi-s1.md)
 2. [Sastra Inggris bidang minat Penerjemahan (S1)](/FHISIP/sastra-inggris-bidang-minat-penerjemahan-s1.md)
