@@ -34,7 +34,7 @@ FKIP UT menjadi unggulan dalam menghasilkan pendidik dan tenaga kependidikan yan
 ### Jurusan Pendidikan Bahasa dan Seni (PBS)
 
 1. [Program Studi Pendidikan Bahasa dan Sastra Indonesia (S1)](pendidikan-bahasa-dan-sastra-indonesia-s1.md)
-2. . [Program Studi Pendidikan Bahasa Inggris (S1)](pendidikan-bahasa-inggris-s1.md)
+2. [Program Studi Pendidikan Bahasa Inggris (S1)](pendidikan-bahasa-inggris-s1.md)
 
 ### Jurusan Pendidikan Matematika dan Ilmu Pengetahuan Alam (PMIPA)
 
