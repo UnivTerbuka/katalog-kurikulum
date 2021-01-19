@@ -1,5 +1,19 @@
 # Program S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)
 
+## Daftar Isi
+
+- [Program S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)](#program-s1-pendidikan-guru-sekolah-dasar-s1-pgsd)
+  - [Daftar Isi](#daftar-isi)
+  - [Visi](#visi)
+  - [Misi](#misi)
+  - [Tujuan](#tujuan)
+  - [Capaian Pembelajaran](#capaian-pembelajaran)
+  - [Struktur Kurikulum](#struktur-kurikulum)
+    - [Struktur Kurikulum S1 PGSD Layanan Alih Kredit Pengakuan Masa Mengajar (Kode Program Studi 118)](#struktur-kurikulum-s1-pgsd-layanan-alih-kredit-pengakuan-masa-mengajar-kode-program-studi-118)
+    - [Keterangan Struktur Kurikulum Program Studi 118](#keterangan-struktur-kurikulum-program-studi-118)
+    - [Struktur Kurikulum S1 PGSD Masukan Sarjana (Kode Program Studi 119)](#struktur-kurikulum-s1-pgsd-masukan-sarjana-kode-program-studi-119)
+    - [Keterangan Struktur Kurikulum Program Studi 119](#keterangan-struktur-kurikulum-program-studi-119)
+
 ## Visi
 
 Program studi S1 Pendidikan Guru Sekolah Dasar FKIP-UT unggul dalam menghasilkan guru sekolah dasar profesional melalui sistem pendidikan tinggi terbuka dan jarak jauh.
@@ -119,7 +133,7 @@ Secara lebih rinci, capaian pembelajaran yang diharapkan dicapai adalah sebagai 
 |         |        |                  |                                               |                  |                                                              |         |               |          |
 |         |        |                  |                                               |                  | **Total SKS**                                                | **145** |               |          |
 
-### Keterangan
+### Keterangan Struktur Kurikulum Program Studi 118
 
 Waktu ujian 99 : Tanpa Ujian Akhir Semester (UAS), nilai mata kuliah sepenuhnya dari nilai praktik/praktikum dan laporan praktik/praktikum.
 
@@ -175,7 +189,7 @@ Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat di 
 |     |      |          |                                               |          |                                                              |        |            |        |
 |     |      |          |                                               |          | Total SKS                                                    | **61** |            |        |
 
-### Keterangan:
+### Keterangan Struktur Kurikulum Program Studi 119
 
 - Waktu ujian 99 : Tanpa Ujian Akhir Semester (UAS), nilai mata kuliah sepenuhnya dari nilai praktik/praktikum dan laporan praktik/praktikum.
 - T : Disediakan tutorial, kecuali untuk layanan SIPAS non TTM
