@@ -2,6 +2,19 @@
 
 !> 54/Manajemen (S1)
 
+## Daftar Isi
+
+- [Program Studi Manajemen (S1)](#program-studi-manajemen-s1)
+  - [Daftar Isi](#daftar-isi)
+  - [Visi](#visi)
+  - [Misi](#misi)
+  - [Tujuan](#tujuan)
+  - [Capaian Pembelajaran](#capaian-pembelajaran)
+    - [Keterampilan Khusus](#keterampilan-khusus)
+    - [Penguasaan Pengetahuan](#penguasaan-pengetahuan)
+  - [Struktur Kurikulum Program Studi](#struktur-kurikulum-program-studi)
+    - [Keterangan Struktur Kurikulum Program Studi](#keterangan-struktur-kurikulum-program-studi)
+
 ## Visi
 
 Menjadi program studi yang unggul dalam menghasilkan lulusan bidang ilmu manajemen/bisnis yang berdaya saing tinggi melalui sistem PTTJJ.
