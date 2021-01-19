@@ -107,4 +107,11 @@
 
 ## Katalog Kurikulum FKIP Program PGSD dan PGPAUD Universitas
 
-!> [Katalog Kurikulum FKIP Program PGSD dan PGPAUD Universitas](/katalog-pendas.md)
+!> [Katalog Kurikulum FKIP Program PGSD dan PGPAUD Universitas](/FKIP-pendas/README.md)
+
+  1. [Program S1 Pendidikan Guru Sekolah Dasar (S1 PGSD)](/FKIP-pendas/s1-pgsd.md)
+  2. [Program S1 Pendidikan Guru Pendidikan Anak Usia Dini (S1 PGPAUD)](/FKIP-pendas/s1-pgpaud.md)
+
+***
+
+Selanjutnya [Katalog kurikulum FE, FHISIP, FST, dan FKIP (non-pendas) Universitas Terbuka](/katalog-non-pendas.md)
