@@ -35,7 +35,7 @@ FHISIP UT menjadi rujukan penyelenggaraan Pendidikan Tinggi Terbuka dan Jarak Ja
 ### Jurusan Ilmu Administrasi
 
 1. [Perpajakan (D-III)](perpajakan-d-iii.md)
-2. . [Ilmu Administrasi Negara (S1)](ilmu-administrasi-negara-s1.md)
+2. [Ilmu Administrasi Negara (S1)](ilmu-administrasi-negara-s1.md)
 3. [Ilmu Administrasi Negara (S1) bidang minat Administrasi danManajemen Kepegawaian (S1)](ilmu-administrasi-negara-s1-bidang-minat-administrasi-dan-manajemen-kepegawaian-s1.md)
 4. [Ilmu Administrasi Bisnis (S1)](ilmu-administrasi-bisnis-s1.md)
 5. [Ilmu Pemerintahan (S1)](ilmu-pemerintahan-s1.md)
