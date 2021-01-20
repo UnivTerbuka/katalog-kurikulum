@@ -53,7 +53,7 @@ Kurikulum Program Studi S1 Matematika dirancang agar dapat ditempuh mahasiswa da
 
 ## Struktur Kurikulum
 
-!> Untuk Program Studi : 55/Matematika (S1)
+!> Untuk Program Studi: 55/Matematika (S1)
 
 | **NO** | **Kode Mata Kuliah** | **Nama Mata Kuliah**                        | **SKS** | **Waktu Ujian** | **Kode Bahan Ajar** | **Nama Bahan Ajar**                         | **Semester 1** | **Semester 2** | **Semester 3** | **Semester 4** | **Semester 5** | **Semester 6** | **Semester 7** | **Semester 8** | **Keterangan** |
 | ------ | -------------------- | ------------------------------------------- | ------- | --------------- | ------------------- | ------------------------------------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |

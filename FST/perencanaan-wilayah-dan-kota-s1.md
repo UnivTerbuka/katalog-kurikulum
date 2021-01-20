@@ -55,7 +55,7 @@ Kurikulum Program Studi S1 Perencanaan Wilayah dan Kota dirancang agar dapat dit
 
 ## Struktur Kurikulum
 
-!> Untuk Program Studi : 279/Perencanaan Wilayah dan Kota (S1)
+!> Untuk Program Studi: 279/Perencanaan Wilayah dan Kota (S1)
 
 | **NO** | **Kode Mata Kuliah** | **Nama Mata Kuliah**                        | **SKS** | **Waktu Ujian** | **Kode Bahan Ajar** | **Nama Bahan Ajar**                          | **Semester 1** | **Semester 2** | **Semester 3** | **Semester 4** | **Semester 5** | **Semester 6** | **Semester 7** | **Semester 8** | **Keterangan** |
 | ------ | -------------------- | ------------------------------------------- | ------- | --------------- | ------------------- | -------------------------------------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
