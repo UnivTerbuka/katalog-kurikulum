@@ -174,4 +174,4 @@ Kurikulum Program Studi S1 Biologi dirancang agar dapat ditempuh mahasiswa dalam
 
 ***
 
-Selanjutnya [Program Studi Perencanaan Wilayah dan Kota (S1)](program-studi-perencanaan-wilayah-dan-kota-s1.md)
+Selanjutnya [Program Studi Perencanaan Wilayah dan Kota (S1)](perencanaan-wilayah-dan-kota-s1.md)

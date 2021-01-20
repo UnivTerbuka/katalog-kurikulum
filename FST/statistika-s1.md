@@ -138,4 +138,4 @@ Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat di 
 
 ***
 
-Selanjutnya [Program Studi Biologi (S1)](program-studi-biologi-s1.md)
+Selanjutnya [Program Studi Biologi (S1)](biologi-s1.md)

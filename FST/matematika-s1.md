@@ -135,4 +135,4 @@ Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat di 
 
 ***
 
-Selanjutnya [Program Studi Statistika (S1)](program-studi-statistika-s1.md)
+Selanjutnya [Program Studi Statistika (S1)](statistika-s1.md)

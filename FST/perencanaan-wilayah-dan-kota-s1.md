@@ -161,4 +161,4 @@ Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat di 
 
 ***
 
-Selanjutnya [Program Studi Sistem Informasi (S1)](program-studi-sistem-informasi-s1.md)
+Selanjutnya [Program Studi Sistem Informasi (S1)](sistem-informasi-s1.md)

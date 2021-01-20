@@ -41,14 +41,14 @@ Menjadi bagian integral dari UT untuk menjadi institusi Pendidikan Tinggi Terbuk
 
 ### Jurusan Matematika dan Ilmu Pengetahuan Alam
 
-1. [Program Studi Matematika (S1)](program-studi-matematika-s1.md)
-2. [Program Studi Statistika (S1)](program-studi-statistika-s1.md)
-3. [Program Studi Biologi (S1)](program-studi-biologi-s1.md)
+1. [Program Studi Matematika (S1)](matematika-s1.md)
+2. [Program Studi Statistika (S1)](statistika-s1.md)
+3. [Program Studi Biologi (S1)](biologi-s1.md)
 
 ### Jurusan Teknik
 
-1. [Program Studi Perencanaan Wilayah dan Kota (S1)](program-studi-perencanaan-wilayah-dan-kota-s1.md)
-2. [Program Studi Sistem Informasi (S1)](program-studi-sistem-informasi-s1.md)
+1. [Program Studi Perencanaan Wilayah dan Kota (S1)](perencanaan-wilayah-dan-kota-s1.md)
+2. [Program Studi Sistem Informasi (S1)](sistem-informasi-s1.md)
 
 ### Jurusan Pertanian
 

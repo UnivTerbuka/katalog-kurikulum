@@ -84,14 +84,14 @@
 
   - Jurusan Matematika dan Ilmu Pengetahuan Alam
 
-    1. [Matematika (S1)](/FST/program-studi-matematika-s1.md)
-    2. [Statistika (S1)](/FST/program-studi-statistika-s1.md)
-    3. [Biologi (S1)](/FST/program-studi-biologi-s1.md)
+    1. [Matematika (S1)](/FST/matematika-s1.md)
+    2. [Statistika (S1)](/FST/statistika-s1.md)
+    3. [Biologi (S1)](/FST/biologi-s1.md)
 
   - Jurusan Teknik
 
-    1. [Perencanaan Wilayah dan Kota (S1)](/FST/program-studi-perencanaan-wilayah-dan-kota-s1.md)
-    2. [Sistem Informasi (S1)](/FST/program-studi-sistem-informasi-s1.md)
+    1. [Perencanaan Wilayah dan Kota (S1)](/FST/perencanaan-wilayah-dan-kota-s1.md)
+    2. [Sistem Informasi (S1)](/FST/sistem-informasi-s1.md)
 
   - Jurusan Pertanian
 
