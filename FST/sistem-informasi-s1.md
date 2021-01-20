@@ -140,9 +140,9 @@ Kurikulum Program Studi S1 Sistem Informasi dirancang agar dapat ditempuh mahasi
   3. MSIM4302 – Analisis dan Perancangan Sistem
   4. MSIM4303 – Rekayasa Perangkat Lunak
   5. MSIM4312 – Metodologi Penelitian
-   Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP MSIM4500.
-   Mata kuliah Karil diregistrasikan bersamaan dengan registrasi mata kuliah TAP.
-   Mata kuliah berpraktikum, TAP, Karil, tidak boleh diambil oleh peserta Program Mata Kuliah Mandiri (PMKM).
+- Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP MSIM4500.
+- Mata kuliah Karil diregistrasikan bersamaan dengan registrasi mata kuliah TAP.
+- Mata kuliah berpraktikum, TAP, Karil, tidak boleh diambil oleh peserta Program Mata Kuliah Mandiri (PMKM).
 
 Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat di akses di www.p2m2.ut.ac.id/banc
 
