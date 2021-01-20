@@ -34,6 +34,7 @@
     <script>
         window.$docsify = {
             el: '#main',
+            name: 'Katalog UT',
             repo: 'UnivTerbuka/katalog-kurikulum',
             loadSidebar: true,
             loadNavbar: true,
@@ -42,7 +43,12 @@
             relativePath: true,
             notFoundPage: true,
             coverpage: true,
-            search: 'auto',
+            search: {
+                maxAge: 86400000,
+                placeholder: 'Cari',
+                paths: 'auto',
+                noData: 'Tidak ditemukan!',
+            },
         }
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
