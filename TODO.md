@@ -38,10 +38,10 @@
   - [ ] [Ilmu Hukum (S1)](/FKIP-non-pendas/ilmu-hukum-s1.md)
 
 - [x] [Fakultas Sains dan Teknologi (FST)](/FST/README.md)
-  - [ ] [Program Studi Matematika (S1)](/FST/matematika-s1.md)
-  - [ ] [Program Studi Statistika (S1)](/FST/statistika-s1.md)
+  - [x] [Program Studi Matematika (S1)](/FST/matematika-s1.md)
+  - [x] [Program Studi Statistika (S1)](/FST/statistika-s1.md)
   - [x] [Program Studi Biologi (S1)](/FST/biologi-s1.md)
-  - [ ] [Program Studi Perencanaan Wilayah dan Kota (S1)](/FST/perencanaan-wilayah-dan-kota-s1.md)
+  - [x] [Program Studi Perencanaan Wilayah dan Kota (S1)](/FST/perencanaan-wilayah-dan-kota-s1.md)
   - [x] [Program Studi Sistem Informasi (S1)](/FST/sistem-informasi-s1.md)
   - [ ] [Penyuluhan dan Komunikasi Pertanian (S1)](/FST/penyuluhan-dan-komunikasi-pertanian-s1.md)
   - [ ] [Penyuluhan dan Komunikasi Peternakan (S1)](/FST/penyuluhan-dan-komunikasi-peternakan-s1.md)
