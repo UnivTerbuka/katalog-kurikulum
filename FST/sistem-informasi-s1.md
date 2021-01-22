@@ -132,8 +132,8 @@ Kurikulum Program Studi S1 Sistem Informasi dirancang agar dapat ditempuh mahasi
 - T : Tutorial Tatap Muka (TTM) untuk mahasiswa SIPAS
 - Bw : Bimbingan Wajib
 - E : Ujian Berbentuk Esai
-- 1) : Bidang Minat Data Mining
-- 2) : Bidang Minat Jaringan
+- 1\) : Bidang Minat Data Mining
+- 2\) : Bidang Minat Jaringan
 - \*\* Mata kuliah pendukung TAP MSIM4500 adalah:
   1. MSIM4206 – Basis Data
   2. MSIM4207 – Sistem Informasi Manajemen
