@@ -127,6 +127,7 @@ Kurikulum Program Studi S1 Ilmu Administrasi Negara dirancang agar dapat ditempu
   4. ADPU4410 - Kebijakan Publik
   5. ADPU4441 - Pengembangan Organisasi
   6. ADPU4533 - Etika Administrasi Pemerintahan
+  
   Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP ADPU4500.
 - \*\*\* : Mata Kuliah tanpa Ujian Akhir Semester (UAS), diregistrasi oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP
 

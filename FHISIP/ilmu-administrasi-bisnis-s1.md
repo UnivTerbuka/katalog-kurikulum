@@ -131,6 +131,7 @@ Kurikulum Program Studi S1 Ilmu Administrasi Bisnis dirancang agar dapat ditempu
   3. ADBI4434 - Kebijakan dan Strategi Produksi
   4. ADBI4437 - Kebijakan Bisnis
   5. ADBI4438 - Manajemen Sumber Daya Manusia
+  
   Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP ADBI4500.
 - \*\*\* : Mata Kuliah tanpa Ujian Akhir Semester (UAS), diregistrasi oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP
 

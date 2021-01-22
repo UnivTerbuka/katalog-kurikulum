@@ -154,7 +154,6 @@ Waktu ujian 99 : Tanpa Ujian Akhir Semester (UAS), nilai mata kuliah sepenuhnya 
   6. PDGK4204 Pendidikan Bahasa Indonesia di SD
   7. PDGK4406 Pembelajaran Matematika SD
   8. IDIK4008 Penelitian Tindakan Kelas
-
 - \*\*\* : Diregistrasi oleh mahasiswa bersamaan dengan registrasi mata kuliah PKP.
 
 Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat di akses di www.p2m2.ut.ac.id/banc

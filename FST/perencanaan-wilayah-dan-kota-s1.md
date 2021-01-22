@@ -133,6 +133,7 @@ Kurikulum Program Studi S1 Perencanaan Wilayah dan Kota dirancang agar dapat dit
   5. PWKL4304 – Studio Perencanaan Kota
   6. Katalog Kurikulum FE, FHISIP, FKIP, FST UT 2020/2021
   7. PWKL4408 – Studio Perencanaan Wilayah
+  
   Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP PWKL4500.
 - \*\*\* : Mata kuliah tanpa UAS, diregistrasi oleh Mahasiswa bersamaan dengan Registrasi Mata Kuliah PKP/TAP
 

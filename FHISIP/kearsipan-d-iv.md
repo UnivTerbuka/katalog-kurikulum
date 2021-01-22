@@ -160,6 +160,7 @@ Waktu ujian 99: tanpa ujian akhir semester (UAS), nilai mata kuliah sepenuhnya d
   2. ASIP 4432 - Otomasi dalam Kearsipan
   3. ASIP 4436 - Perancangan Skema Klasifikasi & Thesaurus
   4. ASIP 4434 - Perancangan Jadwal Retensi Arsip
+  
   Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP ASIP4500.
 
 Mata kuliah praktek/praktikum, mata kuliah berpraktikum, TAP, Karil, tidak boleh diambil oleh peserta Program Mata Kuliah Mandiri (PMKM)

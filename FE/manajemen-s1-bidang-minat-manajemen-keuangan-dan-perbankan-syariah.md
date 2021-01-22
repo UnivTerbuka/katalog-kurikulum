@@ -135,8 +135,7 @@ Kurikulum Program Studi Manajemen Strata 1 (S1) Bidang Minat Manajemen Keuangan 
   3. EKMA4216 - Manajemen Pemasaran
   4. EKMA4214 - Manajemen Sumber Daya Manusia
   5. EKMA4478 - Analisis Kasus Bisnis
-
-*** Pada karil mata kuliah tanpa UAS di registrasikan oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP
+- *** Pada karil mata kuliah tanpa UAS di registrasikan oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP
 
 Mata kuliah praktik/praktikum, mata kuliah berpraktikum, TAP, Karil, tidak boleh diambil oleh peserta Program Mata Kuliah Mandiri (PMKM)
 

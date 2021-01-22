@@ -138,7 +138,8 @@ Kurikulum Program Studi S1 Biologi dirancang agar dapat ditempuh mahasiswa dalam
   3. BIOL4318 - Fisiologi Hewan
   4. BIOL4215 - Ekologi
   5. BIOL4223 - Mikrobiologi
-    Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP BIOL4500.
+  
+  Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP BIOL4500.
 - *** : Mata kuliah tanpa UAS, diregistrasi oleh Mahasiswa bersamaan dengan Registrasi Mata Kuliah PKP/TAP
 
 ### Catatan

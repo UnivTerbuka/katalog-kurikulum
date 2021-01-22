@@ -125,10 +125,11 @@ Kurikulum Program Studi S1 Statistika dirancang agar dapat ditempuh mahasiswa da
 - E : Ujian berbentuk Esai
 - Bw : Bimbingan Wajib
 - ** : Mata kuliah Pendukung TAP SATS4500 adalah:
-   1. SATS4420 – Pengantar Statistika Matematis 2
-   2. SATS4312 – Model Linear Terapan
-   3. SATS4421 – Metode Statistika Multivariat
-   Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP SATS4500.
+  1. SATS4420 – Pengantar Statistika Matematis 2
+  2. SATS4312 – Model Linear Terapan
+  3. SATS4421 – Metode Statistika Multivariat
+  
+  Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP SATS4500.
 - *** : Mata kuliah tanpa UAS, diregistrasi oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP
 
 Catatan:

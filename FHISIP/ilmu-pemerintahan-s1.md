@@ -140,6 +140,7 @@ dianjurkan diregistrasikan setelah Anda menempuh ISIP4212-Pengantar Ilmu Politik
   3. ADPU4410 - Kebijakan Publik
   4. IPEM4429 - Manajemen Pelayanan Umum
   5. IPEM4439 - Perubahan Sosial dan Pembangunan
+  
   Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP IPEM4500.
 - \*\*\* : Mata Kuliah tanpa Ujian Akhir Semester (UAS), diregistrasi oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP
 

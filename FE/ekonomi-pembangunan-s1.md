@@ -130,7 +130,9 @@ Kurikulum Program Studi S1 Ekonomi Pembangunan dirancang agar dapat ditempuh mah
   2. ESPA4227 – Ekonomi Moneter
   3. ESPA4324 – Ekonomi Pembangunan Lanjutan
   4. ESPA4421 – Kebanksentralan dan Kebijakan Moneter
-- \*\*\* Pada karil mata kuliah tanpa UAS di registrasikan oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP Mata kuliah praktek/praktikum, mata kuliah berpraktikum, TAP, Karil, tidak boleh diambil oleh peserta Program Mata Kuliah Mandiri (PMKM)
+- \*\*\* Pada karil mata kuliah tanpa UAS di registrasikan oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP
+
+Mata kuliah praktek/praktikum, mata kuliah berpraktikum, TAP, Karil, tidak boleh diambil oleh peserta Program Mata Kuliah Mandiri (PMKM)
 
 Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat di akses di www.p2m2.ut.ac.id/banc
 

@@ -124,8 +124,8 @@ Kurikulum Program Studi S1 Matematika dirancang agar dapat ditempuh mahasiswa da
   3. MATA4321 – Aljabar I
   4. MATA4323 – Persamaan Diferensial Biasa
   5. SATS4410 – Pengantar Statistika Matematis I
+  
   Mata kuliah pendukung TAP dianjurkan diregistrasikan sebelum atau bersamaan dengan registrasi TAP MATA4500.
-
 - \*\*\* : Mata kuliah tanpa UAS, diregistrasi oleh mahasiswa bersamaan dengan registrasi mata kuliah TAP.
 
 Catatan:
