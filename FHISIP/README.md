@@ -29,7 +29,7 @@ FHISIP UT menjadi rujukan penyelenggaraan Pendidikan Tinggi Terbuka dan Jarak Ja
 | 1   | Jurusan Ilmu Administrasi                                                                |
 |     | a. Perpajakan (D-III)                                                                    |
 |     | b. Ilmu Administrasi Negara (S1)                                                         |
-|     | c. Ilmu Administrasi Negara (S1) bidang minat Administrasi danManajemen Kepegawaian (S1) |
+|     | c. Ilmu Administrasi Negara (S1) bidang minat Administrasi dan Manajemen Kepegawaian (S1) |
 |     | d. Ilmu Administrasi Bisnis (S1)                                                         |
 |     | e. Ilmu Pemerintahan (S1)                                                                |
 | 2   | Jurusan Ilmu Komunikasi dan Informasi                                                    |
@@ -45,23 +45,23 @@ FHISIP UT menjadi rujukan penyelenggaraan Pendidikan Tinggi Terbuka dan Jarak Ja
 
 ### Jurusan Ilmu Administrasi
 
-1. [Perpajakan (D-III)](perpajakan-d-iii.md)
-2. [Ilmu Administrasi Negara (S1)](ilmu-administrasi-negara-s1.md)
-3. [Ilmu Administrasi Negara (S1) bidang minat Administrasi danManajemen Kepegawaian (S1)](ilmu-administrasi-negara-s1-bidang-minat-administrasi-dan-manajemen-kepegawaian-s1.md)
-4. [Ilmu Administrasi Bisnis (S1)](ilmu-administrasi-bisnis-s1.md)
-5. [Ilmu Pemerintahan (S1)](ilmu-pemerintahan-s1.md)
+1. [Program Studi Perpajakan (D-III)](perpajakan-d-iii.md)
+2. [Program Studi Ilmu Administrasi Negara (S1)](ilmu-administrasi-negara-s1.md)
+3. [Program Studi Ilmu Administrasi Negara (S1) bidang minat Administrasi dan Manajemen Kepegawaian (S1)](ilmu-administrasi-negara-s1-bidang-minat-administrasi-dan-manajemen-kepegawaian-s1.md)
+4. [Program Studi Ilmu Administrasi Bisnis (S1)](ilmu-administrasi-bisnis-s1.md)
+5. [Program Studi Ilmu Pemerintahan (S1)](ilmu-pemerintahan-s1.md)
 
 ### Jurusan Ilmu Komunikasi dan Informasi
 
-1. [Kearsipan (D-IV)](kearsipan-d-iv.md)
-2. [Ilmu Komunikasi (S1)](ilmu-komunikasi-s1.md)
-3. [Ilmu Perpustakaan (S1)](ilmu-perpustakaan-s1.md)
+1. [Program Studi Kearsipan (D-IV)](kearsipan-d-iv.md)
+2. [Program Studi Ilmu Komunikasi (S1)](ilmu-komunikasi-s1.md)
+3. [Program Studi Ilmu Perpustakaan (S1)](ilmu-perpustakaan-s1.md)
 
 ### Jurusan Ilmu Sosial, Hukum, dan Humaniora
 
-1. [Sosiologi (S1)](sosiologi-s1.md)
-2. [Sastra Inggris bidang minat Penerjemahan (S1)](sastra-inggris-bidang-minat-penerjemahan-s1.md)
-3. [Ilmu Hukum (S1)](ilmu-hukum-s1.md)
+1. [Program Studi Sosiologi (S1)](sosiologi-s1.md)
+2. [Program Studi Sastra Inggris bidang minat Penerjemahan (S1)](sastra-inggris-bidang-minat-penerjemahan-s1.md)
+3. [Program Studi Ilmu Hukum (S1)](ilmu-hukum-s1.md)
 
 ***
 

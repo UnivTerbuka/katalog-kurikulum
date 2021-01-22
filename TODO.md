@@ -14,7 +14,7 @@
 - [x] [Fakultas Hukum Ilmu Sosial dan Politik (FHISIP)](/FHISIP/README.md)
   - [x] [Perpajakan (D-III)](/FHISIP/perpajakan-d-iii.md)
   - [ ] [Ilmu Administrasi Negara (S1)](/FHISIP/ilmu-administrasi-negara-s1.md)
-  - [ ] [Ilmu Administrasi Negara (S1) bidang minat Administrasi danManajemen Kepegawaian (S1)](/FHISIP/ilmu-administrasi-negara-s1-bidang-minat-administrasi-dan-manajemen-kepegawaian-s1.md)
+  - [ ] [Ilmu Administrasi Negara (S1) bidang minat Administrasi dan Manajemen Kepegawaian (S1)](/FHISIP/ilmu-administrasi-negara-s1-bidang-minat-administrasi-dan-manajemen-kepegawaian-s1.md)
   - [ ] [Ilmu Administrasi Bisnis (S1)](/FHISIP/ilmu-administrasi-bisnis-s1.md)
   - [ ] [Ilmu Pemerintahan (S1)](/FHISIP/ilmu-pemerintahan-s1.md)
   - [ ] [Kearsipan (D-IV)](/FHISIP/kearsipan-d-iv.md)

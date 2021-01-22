@@ -34,7 +34,7 @@
 
 1. [Perpajakan (D-III)](/FHISIP/perpajakan-d-iii.md)
 2. [Ilmu Administrasi Negara (S1)](/FHISIP/ilmu-administrasi-negara-s1.md)
-3. [Ilmu Administrasi Negara (S1) bidang minat Administrasi danManajemen Kepegawaian (S1)](/FHISIP/ilmu-administrasi-negara-s1-bidang-minat-administrasi-dan-manajemen-kepegawaian-s1.md)
+3. [Ilmu Administrasi Negara (S1) bidang minat Administrasi dan Manajemen Kepegawaian (S1)](/FHISIP/ilmu-administrasi-negara-s1-bidang-minat-administrasi-dan-manajemen-kepegawaian-s1.md)
 4. [Ilmu Administrasi Bisnis (S1)](/FHISIP/ilmu-administrasi-bisnis-s1.md)
 5. [Ilmu Pemerintahan (S1)](/FHISIP/ilmu-pemerintahan-s1.md)
 
