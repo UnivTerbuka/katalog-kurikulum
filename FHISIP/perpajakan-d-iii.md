@@ -109,10 +109,11 @@ Kurikulum Program Studi D-III Perpajakan dirancang agar dapat ditempuh mahasiswa
 
 ### Keterangan Struktur Kurikulum
 
-- T : Tutorial Tatap Muka (TTM) untuk mahasiswa SIPAS SEMI Pr : Mata kuliah Praktik
+- T : Tutorial Tatap Muka (TTM) untuk mahasiswa SIPAS SEMI
+- Pr : Mata kuliah Praktik
 
 Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat di akses di www.p2m2.ut.ac.id/banc
 
 ***
 
- Selanjutnya [Ilmu Administrasi Negara (S1)](ilmu-administrasi-negara-s1.md)
+ Selanjutnya [Program Studi Ilmu Administrasi Negara (S1)](ilmu-administrasi-negara-s1.md)
