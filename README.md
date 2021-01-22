@@ -1,5 +1,7 @@
 # Katalog Kurikulum Program Universitas Terbuka
 
+?> Katalog ini belum 100% selesai. Masih dalam [proses pengerjaan](/TODO.md)
+
 ## Katalog kurikulum FE, FHISIP, FST, dan FKIP (non-pendas) Universitas Terbuka
 
 !> [Katalog kurikulum FE, FHISIP, FST, dan FKIP (non-pendas) Universitas Terbuka](/katalog-non-pendas.md)
