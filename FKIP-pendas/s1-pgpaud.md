@@ -201,3 +201,7 @@ Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat dia
 - \* : Diregistrasi oleh mahasiswa bersamaan dengan registrasi mata kuliah PKP
 
 Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat diakses di www.p2m2.ut.ac.id/banc
+
+***
+
+[Kembali ke beranda](/README.md)

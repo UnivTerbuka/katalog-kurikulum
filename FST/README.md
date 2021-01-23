@@ -59,3 +59,7 @@ Menjadi bagian integral dari UT untuk menjadi institusi Pendidikan Tinggi Terbuk
    - [Penyuluhan dan Komunikasi Perikanan (S1)](penyuluhan-dan-komunikasi-perikanan-s1.md)
 
 2. [Program Studi Teknologi Pangan (S1)](program-studi-teknologi-pangan-s1.md)
+
+***
+
+Selanjutnya [Program Studi Matematika (S1)](matematika-s1.md)

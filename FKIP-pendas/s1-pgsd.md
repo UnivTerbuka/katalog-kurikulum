@@ -214,3 +214,7 @@ Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat di 
 - \*\*\* : Diregistrasi oleh mahasiswa bersamaan dengan registrasi mata kuliah PKP.
 
 Bahan ajar non cetak (BANC) dalam bentuk multi media sebagai pengayaan dapat diakses di www.p2m2.ut.ac.id/banc
+
+***
+
+Selanjutnya [Program Studi S1 Pendidikan Guru Pendidikan Anak Usia Dini (S1 PGPAUD)](s1-pgpaud.md)

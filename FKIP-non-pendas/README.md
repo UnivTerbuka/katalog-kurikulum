@@ -69,3 +69,7 @@ FKIP UT menjadi unggulan dalam menghasilkan pendidik dan tenaga kependidikan yan
 
 1. [Program Studi Pendidikan Guru Sekolah Dasar (PGSD) (S1)*)](pendidikan-guru-sekolah-dasar-pgsd-s1.md)
 2. [Program Studi Pendidikan Guru Pendidikan Anak Usia Dini (PGPAUD) (S1)*)](pendidikan-guru-pendidikan-anak-usia-dini-pgpaud-s1.md)
+
+***
+
+Selanjutnya [Program Studi Pendidikan Bahasa dan Sastra Indonesia (S1)](pendidikan-bahasa-dan-sastra-indonesia-s1.md)
