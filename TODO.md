@@ -25,7 +25,7 @@
   - [x] [Ilmu Hukum (S1)](/FHISIP/ilmu-hukum-s1.md)
 
 - [x] [Fakultas Keguruan dan Ilmu Pendidikan (FKIP Non PGSD dan Non PGPAUD)](/FKIP-non-pendas/README.md)
-  - [ ] [Pendidikan Bahasa dan Sastra Indonesia (S1)](/FKIP-non-pendas/pendidikan-bahasa-dan-sastra-indonesia-s1.md)
+  - [x] [Pendidikan Bahasa dan Sastra Indonesia (S1)](/FKIP-non-pendas/pendidikan-bahasa-dan-sastra-indonesia-s1.md)
   - [ ] [Pendidikan Bahasa Inggris (S1)](/FKIP-non-pendas/pendidikan-bahasa-inggris-s1.md)
   - [ ] [Pendidikan Biologi (S1)](/FKIP-non-pendas/pendidikan-biologi-s1.md)
   - [ ] [Pendidikan Fisika (S1)](/FKIP-non-pendas/pendidikan-fisika-s1.md)
