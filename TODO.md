@@ -20,9 +20,9 @@
   - [x] [Kearsipan (D-IV)](/FHISIP/kearsipan-d-iv.md)
   - [x] [Ilmu Komunikasi (S1)](/FHISIP/ilmu-komunikasi-s1.md)
   - [x] [Ilmu Perpustakaan (S1)](/FHISIP/ilmu-perpustakaan-s1.md)
-  - [ ] [Sosiologi (S1)](/FHISIP/sosiologi-s1.md)
-  - [ ] [Sastra Inggris bidang minat Penerjemahan (S1)](/FHISIP/sastra-inggris-bidang-minat-penerjemahan-s1.md)
-  - [ ] [Ilmu Hukum (S1)](/FHISIP/ilmu-hukum-s1.md)
+  - [x] [Sosiologi (S1)](/FHISIP/sosiologi-s1.md)
+  - [x] [Sastra Inggris bidang minat Penerjemahan (S1)](/FHISIP/sastra-inggris-bidang-minat-penerjemahan-s1.md)
+  - [x] [Ilmu Hukum (S1)](/FHISIP/ilmu-hukum-s1.md)
 
 - [x] [Fakultas Keguruan dan Ilmu Pendidikan (FKIP Non PGSD dan Non PGPAUD)](/FKIP-non-pendas/README.md)
   - [ ] [Pendidikan Bahasa dan Sastra Indonesia (S1)](pendidikan-bahasa-dan-sastra-indonesia-s1.md)
