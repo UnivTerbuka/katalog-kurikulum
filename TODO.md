@@ -30,7 +30,7 @@
   - [x] [Pendidikan Biologi (S1)](/FKIP-non-pendas/pendidikan-biologi-s1.md)
   - [x] [Pendidikan Fisika (S1)](/FKIP-non-pendas/pendidikan-fisika-s1.md)
   - [x] [Pendidikan Kimia (S1)](/FKIP-non-pendas/pendidikan-kimia-s1.md)
-  - [ ] [Pendidikan Matematika (S1)](/FKIP-non-pendas/pendidikan-matematika-s1.md)
+  - [x] [Pendidikan Matematika (S1)](/FKIP-non-pendas/pendidikan-matematika-s1.md)
   - [ ] [Pendidikan Pancasila dan Kewarganegaraan (S1)](/FKIP-non-pendas/pendidikan-pancasila-dan-kewarganegaraan-s1.md)
   - [ ] [Pendidikan Ekonomi (S1)](/FKIP-non-pendas/pendidikan-ekonomi-s1.md)
   - [ ] [Teknologi Pendidikan (S1)](/FKIP-non-pendas/program-studi-teknologi-pendidikan-s1.md)
